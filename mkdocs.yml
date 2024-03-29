@@ -1,0 +1,16 @@
+site_name: SamplyCity
+nav:
+  - Home: index.md
+  - Building: building.md
+  - Transportation: transportation.md
+  - Vegetation: vegetation.md
+  - Relief: relief.md
+theme:
+  name: material
+markdown_extensions:
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - attr_list
