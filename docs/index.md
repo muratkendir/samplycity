@@ -15,3 +15,9 @@
 - Hierarchical (GML)ID assignment for all entities. 
 - Document the results of the experiments with different software/tools for every file individually.
 - Document the possible different behaviours of the software/tools for every file individually.
+
+## A visualization of the most used geometry representations in CityGML 2.0/3.0
+
+This visual is designed to represent the hierarchical data structure of GML geometries reversly (from sub to superb).
+
+![most used geometries](images/most_used_geometries_in_citygml_inherited_from_gml.drawio.png)
