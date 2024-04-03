@@ -18,7 +18,7 @@ Please feel free to send feedback if you notice an error or bug in the files.
 
 - No decimal coordinates.
 - Less vertices as much as possible.
-- Hierarchical (GML)ID assignment for all entities. 
+- Hierarchical (GML)ID assignment for all the features. 
 - Document the results of the experiments with different software/tools for every file individually.
 
 ## A visualization of the most used geometry representations in CityGML 2.0/3.0
