@@ -1,7 +1,9 @@
 site_name: SamplyCity
 nav:
   - Home: index.md
-  - Building: building.md
+  - Building:
+    - Buildings: building.md
+    - "Building Subvariants": building_subvariants.md
   - Transportation: transportation.md
   - Vegetation: vegetation.md
   - Relief: relief.md

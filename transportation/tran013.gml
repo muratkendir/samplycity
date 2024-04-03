@@ -14,18 +14,18 @@
     </gml:Envelope>
   </gml:boundedBy>
   <cityObjectMember>
-    <tran:Road gml:id="road_013">
+    <tran:Road gml:id="tran_013">
       <tran:intersection>
-        <tran:Intersection gml:id="tran_013">
-          <gml:description>Tran013, a road-track intersection which has LOD1 representation as Solid</gml:description>
+        <tran:Intersection gml:id="tran_013_intersection">
+          <gml:description>Tran013 is a road-track intersection which has LOD1 representation as Solid</gml:description>
           <gml:name>Transportation 013</gml:name>
           <creationDate>2024-03-11T00:00:00</creationDate>
           <lod1Solid>
-            <gml:Solid gml:id="tran_013_lod_l1_solid" srsDimension="3">
+            <gml:Solid gml:id="tran_013_intersection_lod_l1_solid" srsDimension="3">
               <gml:exterior>
                 <gml:Shell>
                   <gml:surfaceMember>
-                    <gml:Polygon gml:id="tran_013_lod_l1_solid_polygon_001">
+                    <gml:Polygon gml:id="tran_013_intersection_lod_l1_solid_polygon_001">
                       <gml:exterior>
                         <gml:LinearRing>
                           <gml:posList>689820 5333713 1 689792 5333706 1 689784 5333722 1 689812 5333730 1 689820 5333713 1</gml:posList>
@@ -34,7 +34,7 @@
                     </gml:Polygon>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:Polygon gml:id="tran_013_lod_l1_solid_polygon_002">
+                    <gml:Polygon gml:id="tran_013_intersection_lod_l1_solid_polygon_002">
                       <gml:exterior>
                         <gml:LinearRing>
                           <gml:posList>689820 5333713 0 689820 5333713 1 689812 5333730 1 689812 5333730 0 689820 5333713 0</gml:posList>
@@ -43,7 +43,7 @@
                     </gml:Polygon>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:Polygon gml:id="tran_013_lod_l1_solid_polygon_003">
+                    <gml:Polygon gml:id="tran_013_intersection_lod_l1_solid_polygon_003">
                       <gml:exterior>
                         <gml:LinearRing>
                           <gml:posList>689784 5333722 0 689784 5333722 1 689792 5333706 1 689792 5333706 0 689784 5333722 0</gml:posList>
@@ -52,7 +52,7 @@
                     </gml:Polygon>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:Polygon gml:id="tran_013_lod_l1_solid_polygon_004">
+                    <gml:Polygon gml:id="tran_013_intersection_lod_l1_solid_polygon_004">
                       <gml:exterior>
                         <gml:LinearRing>
                           <gml:posList>689792 5333706 0 689792 5333706 1 689820 5333713 1 689820 5333713 0 689792 5333706 0</gml:posList>
@@ -61,7 +61,7 @@
                     </gml:Polygon>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:Polygon gml:id="tran_013_lod_l1_solid_polygon_005">
+                    <gml:Polygon gml:id="tran_013_intersection_lod_l1_solid_polygon_005">
                       <gml:exterior>
                         <gml:LinearRing>
                           <gml:posList>689812 5333730 0 689812 5333730 1 689784 5333722 1 689784 5333722 0 689812 5333730 0</gml:posList>
@@ -70,7 +70,7 @@
                     </gml:Polygon>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:Polygon gml:id="tran_013_lod_1_solid_polygon_006">
+                    <gml:Polygon gml:id="tran_013_intersection_lod_1_solid_polygon_006">
                       <gml:exterior>
                         <gml:LinearRing>
                           <gml:posList>689820 5333713 0 689812 5333730 0 689784 5333722 0 689792 5333706 0 689820 5333713 0</gml:posList>
@@ -88,8 +88,8 @@
     </tran:Road>
   </cityObjectMember>
   <cityObjectMember>
-    <tran:Track gml:id="track_013">
-      <tran:intersection xlink:href="#tran_013"/>
+    <tran:Track gml:id="tran_013b">
+      <tran:intersection xlink:href="#tran_013_intersection"/>
     </tran:Track>
   </cityObjectMember>
 </CityModel>

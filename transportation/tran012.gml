@@ -17,7 +17,7 @@
     <tran:Road gml:id="road_012">
       <tran:section>
         <tran:Section gml:id="tran_012">
-          <gml:description>Tran012, an road section which has LOD1 representation as Solid</gml:description>
+          <gml:description>Tran012 is a road section which has LOD1 representation as Solid</gml:description>
           <gml:name>Transportation 012</gml:name>
           <creationDate>2024-03-11T00:00:00</creationDate>
           <lod1Solid>

@@ -14,8 +14,8 @@
     </gml:Envelope>
   </gml:boundedBy>
   <cityObjectMember>
-    <tran:Road gml:id="tran_009">
-      <gml:description>Tran009, a railway which has LOD0 representation as MultiSurface</gml:description>
+    <tran:Railway gml:id="tran_009">
+      <gml:description>Tran009 is a railway object which has LOD0 representation as MultiSurface</gml:description>
       <gml:name>Transportation 009</gml:name>
       <creationDate>2024-03-11T00:00:00</creationDate>
       <lod0MultiSurface>
@@ -31,6 +31,6 @@
               </gml:surfaceMember>
             </gml:MultiSurface>
       </lod0MultiSurface>
-    </tran:Road>
+    </tran:Railway>
   </cityObjectMember>
 </CityModel>

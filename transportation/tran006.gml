@@ -15,7 +15,7 @@
   </gml:boundedBy>
   <cityObjectMember>
     <tran:Road gml:id="tran_006">
-      <gml:description>Tran006, a road which has LOD0 and LOD1 representation as MultiSurface and Solid</gml:description>
+      <gml:description>Tran006 is a road which has LOD0 and LOD1 representations as MultiSurface and Solid</gml:description>
       <gml:name>Transportation 006</gml:name>
       <creationDate>2024-03-11T00:00:00</creationDate>
       <lod0MultiSurface>

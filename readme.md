@@ -12,6 +12,5 @@
 - Less vertices as much as possible.
 - Hierarchical ID assignment for all entities. 
 - Document the results of the experiments with different software/tools for every file individually.
-- Document the possible different behaviours of the software/tools for every file individually.
 
-
+![samplycity_overview](docs/images/samplycity.jpg)

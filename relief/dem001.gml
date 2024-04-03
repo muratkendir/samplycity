@@ -15,7 +15,7 @@
   </gml:boundedBy>
   <cityObjectMember>
     <dem:ReliefFeature gml:id="dem_001">
-      <gml:description>DEM 001, which has only LOD2 representation as TIN </gml:description>
+      <gml:description>DEM 001 is a relief object which has only LOD2 representation as TIN.</gml:description>
       <gml:name>Dem 001</gml:name>
       <creationDate>2024-03-11T00:00:00</creationDate>
       <dem:lod>2</dem:lod>
