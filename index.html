@@ -10,6 +10,8 @@
       
       
       
+        <link rel="next" href="building/">
+      
       <link rel="icon" href="assets/images/favicon.png">
       <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.1.6">
     
@@ -225,8 +227,15 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#feedback" class="md-nav__link">
+    Feedback
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#samplycity-manifest" class="md-nav__link">
-    SamplyCity Manifest:
+    SamplyCity Manifest
   </a>
   
 </li>
@@ -234,6 +243,13 @@
         <li class="md-nav__item">
   <a href="#a-visualization-of-the-most-used-geometry-representations-in-citygml-2030" class="md-nav__link">
     A visualization of the most used geometry representations in CityGML 2.0/3.0
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#control-and-compatibility-table-of-citygml-files" class="md-nav__link">
+    Control and Compatibility Table of CityGML Files
   </a>
   
 </li>
@@ -253,10 +269,58 @@
   
   
   
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+          Building
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Building
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
     <li class="md-nav__item">
-      <a href="building.md" class="md-nav__link">
-        Building
+      <a href="building/" class="md-nav__link">
+        Buildings
       </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="building_subvariants/" class="md-nav__link">
+        Building Subvariants
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
     </li>
   
 
@@ -269,7 +333,7 @@
   
   
     <li class="md-nav__item">
-      <a href="transportation.md" class="md-nav__link">
+      <a href="transportation/" class="md-nav__link">
         Transportation
       </a>
     </li>
@@ -284,7 +348,7 @@
   
   
     <li class="md-nav__item">
-      <a href="vegetation.md" class="md-nav__link">
+      <a href="vegetation/" class="md-nav__link">
         Vegetation
       </a>
     </li>
@@ -299,7 +363,7 @@
   
   
     <li class="md-nav__item">
-      <a href="relief.md" class="md-nav__link">
+      <a href="relief/" class="md-nav__link">
         Relief
       </a>
     </li>
@@ -340,8 +404,15 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#feedback" class="md-nav__link">
+    Feedback
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#samplycity-manifest" class="md-nav__link">
-    SamplyCity Manifest:
+    SamplyCity Manifest
   </a>
   
 </li>
@@ -349,6 +420,13 @@
         <li class="md-nav__item">
   <a href="#a-visualization-of-the-most-used-geometry-representations-in-citygml-2030" class="md-nav__link">
     A visualization of the most used geometry representations in CityGML 2.0/3.0
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#control-and-compatibility-table-of-citygml-files" class="md-nav__link">
+    Control and Compatibility Table of CityGML Files
   </a>
   
 </li>
@@ -375,18 +453,223 @@
 <li>Stage 2 (Progress: % 60): SamplyCity aims to consist at least one sample per module.</li>
 <li>Stage 3 (Progress: 30%): SamplyCity aims to reflect all possible data structure scenarios within itself. </li>
 </ul>
+<h2 id="feedback">Feedback</h2>
+<p>Please feel free to send feedback if you notice an error or bug in the files.</p>
+<p><strong><a href="https://forms.gle/zAFmvnkLprLUaN3AA" target="_blank">Click here</a> to send me your feedback.</strong></p>
 <p><img alt="samplycity_overview" src="images/samplycity.jpg" /></p>
-<h2 id="samplycity-manifest">SamplyCity Manifest:</h2>
+<h2 id="samplycity-manifest">SamplyCity Manifest</h2>
 <ul>
 <li>No decimal coordinates.</li>
 <li>Less vertices as much as possible.</li>
 <li>Hierarchical (GML)ID assignment for all entities. </li>
 <li>Document the results of the experiments with different software/tools for every file individually.</li>
-<li>Document the possible different behaviours of the software/tools for every file individually.</li>
 </ul>
 <h2 id="a-visualization-of-the-most-used-geometry-representations-in-citygml-2030">A visualization of the most used geometry representations in CityGML 2.0/3.0</h2>
 <p>This visual is designed to represent the hierarchical data structure of GML geometries reversly (from sub to superb).</p>
 <p><img alt="most used geometries" src="images/most_used_geometries_in_citygml_inherited_from_gml.drawio.png" /></p>
+<h2 id="control-and-compatibility-table-of-citygml-files">Control and Compatibility Table of CityGML Files</h2>
+<table>
+<thead>
+<tr>
+<th align="center"><strong>File Name</strong></th>
+<th align="center"><strong>Validation by citygml-tools</strong></th>
+<th align="center"><strong>Viewable in FME Data Inspector</strong></th>
+<th align="center"><strong>Viewable in KIT Model Viewer</strong></th>
+<th align="center"><strong>Uploadable to Cesium Ion</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><strong>bldg001</strong></td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center"><strong>bldg001_only_lod0</strong></td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center"><strong>bldg001_only_lod1</strong></td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center"><strong>bldg001_only_lod2</strong></td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center"><strong>bldg001_only_lod3</strong></td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center"><strong>bldg002</strong></td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">0</td>
+</tr>
+<tr>
+<td align="center"><strong>bldg002_only_lod0</strong></td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">0</td>
+</tr>
+<tr>
+<td align="center"><strong>bldg002_only_lod1</strong></td>
+<td align="center">1</td>
+<td align="center">0</td>
+<td align="center">1</td>
+<td align="center">0</td>
+</tr>
+<tr>
+<td align="center"><strong>bldg002_only_lod2</strong></td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">0</td>
+</tr>
+<tr>
+<td align="center"><strong>bldg002_only_lod3</strong></td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">0</td>
+</tr>
+<tr>
+<td align="center"><strong>bldg003</strong></td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center"><strong>bldg008</strong></td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center"><strong>bldg009</strong></td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center"><strong>bldg010</strong></td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">0</td>
+</tr>
+<tr>
+<td align="center"><strong>tran001</strong></td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center"><strong>tran002</strong></td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center"><strong>tran006</strong></td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center"><strong>tran009</strong></td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center"><strong>tran010</strong></td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center"><strong>tran011</strong></td>
+<td align="center">1</td>
+<td align="center">0</td>
+<td align="center">1</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center"><strong>tran012</strong></td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">0</td>
+</tr>
+<tr>
+<td align="center"><strong>tran013</strong></td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">0</td>
+</tr>
+<tr>
+<td align="center"><strong>veg002</strong></td>
+<td align="center">1</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">0</td>
+</tr>
+<tr>
+<td align="center"><strong>veg004</strong></td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center"><strong>veg005</strong></td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">0</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center"><strong>veg006</strong></td>
+<td align="center">1</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">0</td>
+</tr>
+<tr>
+<td align="center"><strong>dem001</strong></td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">0</td>
+<td align="center">1</td>
+</tr>
+</tbody>
+</table>
 
 
 
