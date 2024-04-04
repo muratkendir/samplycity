@@ -25,7 +25,7 @@
           <!--<transformationMatrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</transformationMatrix>-->
           <transformationMatrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</transformationMatrix>
           <mimeType>model/vnd.collada+xml</mimeType>
-          <libraryObject>simple_tree_trimble_wh.dae</libraryObject>
+          <libraryObject>models/simple_tree_trimble_wh.dae</libraryObject>
           <referencePoint>
             <gml:Point>
               <gml:pos>689853 5333581 0</gml:pos>

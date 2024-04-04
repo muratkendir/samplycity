@@ -22,7 +22,7 @@
         <ImplicitGeometry gml:id="veg_006_implicitgeometry_01">
           <transformationMatrix>1 0 0 689824 0 1 0 5333656 0 0 1 0 0 0 0 1</transformationMatrix>
           <mimeType>model/vnd.collada+xml</mimeType>
-          <libraryObject>simple_tree_trimble_wh.dae</libraryObject>
+          <libraryObject>models/simple_tree_trimble_wh.dae</libraryObject>
           <referencePoint>
             <gml:Point>
               <gml:pos>689824 5333656 0</gml:pos>
