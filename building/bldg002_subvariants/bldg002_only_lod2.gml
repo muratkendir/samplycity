@@ -17,7 +17,7 @@
   </gml:boundedBy>
   <cityObjectMember>
     <bldg:Building gml:id="bldg_002">
-      <gml:description>bldg002_only_lod2 is a building object which has boundaries (GroundSurface, RoofSurface & WallSurface) and linked LOD representation as Solid</gml:description>
+      <gml:description>bldg002_only_lod2 is a building object which has boundaries (GroundSurface, RoofSurface and WallSurface) and linked LOD representation as Solid</gml:description>
       <gml:name>Building 02</gml:name>
       <creationDate>2024-03-15T00:00:00</creationDate>
       <boundary>

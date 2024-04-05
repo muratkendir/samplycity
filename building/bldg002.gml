@@ -17,7 +17,7 @@
   </gml:boundedBy>
   <cityObjectMember>
     <bldg:Building gml:id="building_02">
-      <gml:description>bldg002 is a building object which has Boundaries (ground, roof & walls) and linked (xlink) LOD representations as solids</gml:description>
+      <gml:description>bldg002 is a building object which has Boundaries (ground, roof and walls) and linked (xlink) LOD representations as solids</gml:description>
       <gml:name>Building 02</gml:name>
       <creationDate>2024-03-15T00:00:00</creationDate>
       <boundary>
@@ -271,7 +271,7 @@
         </con:WallSurface>
       </boundary>
       <boundary>
-        <con:OuterCeilingSurface>
+        <con:OuterCeilingSurface gml:id="building_02_outerceilingsurface">
           <gml:name>Eaves</gml:name>
           <lod3MultiSurface>
             <gml:MultiSurface gml:id="building_02_outerceilingsurface_l3_multisurface" srsDimension="3">
