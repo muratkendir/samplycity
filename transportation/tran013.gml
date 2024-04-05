@@ -87,9 +87,4 @@
       </tran:intersection>
     </tran:Road>
   </cityObjectMember>
-  <cityObjectMember>
-    <tran:Track gml:id="tran_013b">
-      <tran:intersection xlink:href="#tran_013_intersection"/>
-    </tran:Track>
-  </cityObjectMember>
 </CityModel>

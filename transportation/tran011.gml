@@ -181,9 +181,4 @@
       <tran:trafficDirection>both</tran:trafficDirection>
     </tran:Road>
   </cityObjectMember>
-  <cityObjectMember>
-    <tran:Railway gml:id="tran_011b">
-      <tran:intersection xlink:href="tran_011_intersection"/>
-    </tran:Railway>
-  </cityObjectMember>
 </CityModel>
