@@ -14,18 +14,18 @@
     </gml:Envelope>
   </gml:boundedBy>
   <cityObjectMember>
-    <tran:Road gml:id="road_012">
+    <tran:Road gml:id="tran_012">
+      <gml:description>Tran012 is a road section which has LOD1 representation as Solid</gml:description>
+      <gml:name>Transportation 012</gml:name>
+      <creationDate>2024-03-11T00:00:00</creationDate>
       <tran:section>
-        <tran:Section gml:id="tran_012">
-          <gml:description>Tran012 is a road section which has LOD1 representation as Solid</gml:description>
-          <gml:name>Transportation 012</gml:name>
-          <creationDate>2024-03-11T00:00:00</creationDate>
+        <tran:Section gml:id="tran_012_section">
           <lod1Solid>
-            <gml:Solid gml:id="tran_012_lod_l1_solid" srsDimension="3">
+            <gml:Solid gml:id="tran_012_section_l1_solid" srsDimension="3">
               <gml:exterior>
                 <gml:Shell>
                   <gml:surfaceMember>
-                    <gml:Polygon gml:id="tran_012_lod_l1_solid_polygon_001">
+                    <gml:Polygon gml:id="tran_012_section_l1_solid_polygon_001">
                       <gml:exterior>
                         <gml:LinearRing>
                           <gml:posList>689908 5333784 1 689903 5333800 1 690000 5333825 1 690000 5333810 1 689908 5333784 1</gml:posList>
@@ -34,7 +34,7 @@
                     </gml:Polygon>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:Polygon gml:id="tran_012_lod_l1_solid_polygon_002">
+                    <gml:Polygon gml:id="tran_012_section_l1_solid_polygon_002">
                       <gml:exterior>
                         <gml:LinearRing>
                           <gml:posList>689908 5333784 0 689908 5333784 1 690000 5333810 1 690000 5333810 0 689908 5333784 0</gml:posList>
@@ -43,7 +43,7 @@
                     </gml:Polygon>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:Polygon gml:id="tran_012_lod_l1_solid_polygon_003">
+                    <gml:Polygon gml:id="tran_012_section_l1_solid_polygon_003">
                       <gml:exterior>
                         <gml:LinearRing>
                           <gml:posList>689908 5333784 0 690000 5333810 0 690000 5333825 0 689903 5333800 0 689908 5333784 0</gml:posList>
@@ -52,7 +52,7 @@
                     </gml:Polygon>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:Polygon gml:id="tran_012_lod_l1_solid_polygon_004">
+                    <gml:Polygon gml:id="tran_012_section_l1_solid_polygon_004">
                       <gml:exterior>
                         <gml:LinearRing>
                           <gml:posList>689903 5333800 0 689903 5333800 1 689908 5333784 1 689908 5333784 0 689903 5333800 0</gml:posList>
@@ -61,7 +61,7 @@
                     </gml:Polygon>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:Polygon gml:id="tran_012_lod_l1_solid_polygon_005">
+                    <gml:Polygon gml:id="tran_012_section_l1_solid_polygon_005">
                       <gml:exterior>
                         <gml:LinearRing>
                           <gml:posList>690000 5333810 0 690000 5333810 1 690000 5333825 1 690000 5333825 0 690000 5333810 0</gml:posList>

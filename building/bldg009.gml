@@ -16,14 +16,14 @@
     </gml:Envelope>
   </gml:boundedBy>
   <cityObjectMember>
-    <bldg:Building gml:id="building_09">
+    <bldg:Building gml:id="bldg_009">
       <gml:description>Building09 is a building object which has only LOD3 representation as MultiSurfaces with CompositeSurface elements.</gml:description>
       <gml:name>Building 09</gml:name>
       <creationDate>2024-03-11T00:00:00</creationDate>
       <lod3MultiSurface>
-        <gml:MultiSurface gml:id="building_09_lod_l3_multisurface" srsDimension="3">
+        <gml:MultiSurface gml:id="bldg_009_lod_l3_multisurface" srsDimension="3">
           <gml:surfaceMember>
-            <gml:Polygon gml:id="building_09_lod_l3_multisurface_polygon_001">
+            <gml:Polygon gml:id="bldg_009_lod_l3_multisurface_polygon_001">
               <gml:name>ground</gml:name>
               <gml:exterior>
                 <gml:LinearRing>
@@ -33,7 +33,7 @@
             </gml:Polygon>
           </gml:surfaceMember>
           <gml:surfaceMember>
-            <gml:Polygon gml:id="building_09_lod_l3_multisurface_polygon_002">
+            <gml:Polygon gml:id="bldg_009_lod_l3_multisurface_polygon_002">
               <gml:name>eave</gml:name>
               <gml:exterior>
                 <gml:LinearRing>
@@ -43,7 +43,7 @@
             </gml:Polygon>
           </gml:surfaceMember>
           <gml:surfaceMember>
-            <gml:Polygon gml:id="building_09_lod_l3_multisurface_polygon_003">
+            <gml:Polygon gml:id="bldg_009_lod_l3_multisurface_polygon_003">
               <gml:name>wall-e</gml:name>
               <gml:exterior>
                 <gml:LinearRing>
@@ -53,7 +53,7 @@
             </gml:Polygon>
           </gml:surfaceMember>
           <gml:surfaceMember>
-            <gml:Polygon gml:id="building_09_lod_l3_multisurface_polygon_004">
+            <gml:Polygon gml:id="bldg_009_lod_l3_multisurface_polygon_004">
               <gml:name>wall-w</gml:name>
               <gml:exterior>
                 <gml:LinearRing>
@@ -63,7 +63,7 @@
             </gml:Polygon>
           </gml:surfaceMember>
           <gml:surfaceMember>
-            <gml:Polygon gml:id="building_09_lod_l3_multisurface_polygon_005">
+            <gml:Polygon gml:id="bldg_009_lod_l3_multisurface_polygon_005">
               <gml:name>wall-n</gml:name>
               <gml:exterior>
                 <gml:LinearRing>
@@ -73,7 +73,7 @@
             </gml:Polygon>
           </gml:surfaceMember>
           <gml:surfaceMember>
-            <gml:Polygon gml:id="building_09_lod_l3_multisurface_polygon_006">
+            <gml:Polygon gml:id="bldg_009_lod_l3_multisurface_polygon_006">
               <gml:name>roof-n</gml:name>
               <gml:exterior>
                 <gml:LinearRing>
@@ -83,7 +83,7 @@
             </gml:Polygon>
           </gml:surfaceMember>
           <gml:surfaceMember>
-            <gml:Polygon gml:id="building_09_lod_l3_multisurface_polygon_007">
+            <gml:Polygon gml:id="bldg_009_lod_l3_multisurface_polygon_007">
               <gml:name>roof-e</gml:name>
               <gml:exterior>
                 <gml:LinearRing>
@@ -93,7 +93,7 @@
             </gml:Polygon>
           </gml:surfaceMember>
           <gml:surfaceMember>
-            <gml:Polygon gml:id="building_09_lod_l3_multisurface_polygon_008">
+            <gml:Polygon gml:id="bldg_009_lod_l3_multisurface_polygon_008">
               <gml:name>roof-s</gml:name>
               <gml:exterior>
                 <gml:LinearRing>
@@ -103,7 +103,7 @@
             </gml:Polygon>
           </gml:surfaceMember>
           <gml:surfaceMember>
-            <gml:Polygon gml:id="building_09_lod_l3_multisurface_polygon_009">
+            <gml:Polygon gml:id="bldg_009_lod_l3_multisurface_polygon_009">
               <gml:name>roof-w</gml:name>
               <gml:exterior>
                 <gml:LinearRing>
@@ -113,9 +113,9 @@
             </gml:Polygon>
           </gml:surfaceMember>
           <gml:surfaceMember>
-            <gml:CompositeSurface gml:id="building_09_lod_l3_multisurface_compositesurface">
+            <gml:CompositeSurface gml:id="bldg_009_lod_l3_multisurface_compositesurface">
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_09_lod_l3_multisurface_compositesurface_polygon_001">
+                <gml:Polygon gml:id="bldg_009_lod_l3_multisurface_compositesurface_polygon_001">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689788 5333836 3 689782 5333836 3 689782 5333836 6 689788 5333836 6 689788 5333836 3</gml:posList>
@@ -129,7 +129,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_09_lod_l3_multisurface_compositesurface_polygon_002">
+                <gml:Polygon gml:id="bldg_009_lod_l3_multisurface_compositesurface_polygon_002">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689780 5333837 6 689782 5333837 6 689782 5333837 3 689788 5333837 3 689788 5333837 6 689790 5333837 6 689790 5333837 0 689780 5333837 0 689780 5333837 6</gml:posList>
@@ -138,7 +138,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_09_lod_l3_multisurface_compositesurface_polygon_003">
+                <gml:Polygon gml:id="bldg_009_lod_l3_multisurface_compositesurface_polygon_003">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689788 5333836 3 689788 5333837 3 689782 5333837 3 689782 5333836 3 689788 5333836 3</gml:posList>
@@ -147,7 +147,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_09_lod_l3_multisurface_compositesurface_polygon_004">
+                <gml:Polygon gml:id="bldg_009_lod_l3_multisurface_compositesurface_polygon_004">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689782 5333837 3 689782 5333837 6 689782 5333836 6 689782 5333836 3 689782 5333837 3</gml:posList>
@@ -156,7 +156,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_09_lod_l3_multisurface_compositesurface_polygon_005">
+                <gml:Polygon gml:id="bldg_009_lod_l3_multisurface_compositesurface_polygon_005">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689788 5333836 6 689788 5333837 6 689788 5333837 3 689788 5333836 3 689788 5333836 6</gml:posList>

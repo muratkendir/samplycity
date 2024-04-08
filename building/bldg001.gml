@@ -16,14 +16,14 @@
     </gml:Envelope>
   </gml:boundedBy>
   <cityObjectMember>
-    <bldg:Building gml:id="building_01">
+    <bldg:Building gml:id="bldg_001">
       <gml:description>bldg001 is a building object which has LOD0, LOD1, LOD2 and LOD3 representations as MultiSurfaces</gml:description>
       <gml:name>Building001</gml:name>
       <creationDate>2024-03-11T00:00:00</creationDate>
       <lod0MultiSurface>
-        <gml:MultiSurface gml:id="building_01_lod_0_multisurface" srsDimension="3">
+        <gml:MultiSurface gml:id="bldg_001_lod_0_multisurface" srsDimension="3">
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_0_multisurface_polygon_001">
+                <gml:Polygon gml:id="bldg_001_lod_0_multisurface_polygon_001">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689818 5333799 0 689830 5333799 0 689830 5333811 0 689818 5333811 0 689818 5333799 0</gml:posList>
@@ -34,11 +34,11 @@
             </gml:MultiSurface>
       </lod0MultiSurface>
       <lod1Solid>
-        <gml:Solid gml:id="building_01_lod_1_solid" srsDimension="3">
+        <gml:Solid gml:id="bldg_001_lod_1_solid" srsDimension="3">
           <gml:exterior>
             <gml:Shell>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_1_solid_polygon_001">
+                <gml:Polygon gml:id="bldg_001_lod_1_solid_polygon_001">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689818 5333811 0 689818 5333799 0 689830 5333799 0 689830 5333811 0 689818 5333811 0</gml:posList>
@@ -47,7 +47,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_1_solid_polygon_002">
+                <gml:Polygon gml:id="bldg_001_lod_1_solid_polygon_002">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689830 5333811 6 689830 5333799 6 689818 5333799 6 689818 5333811 6 689830 5333811 6</gml:posList>
@@ -56,7 +56,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_1_solid_polygon_003">
+                <gml:Polygon gml:id="bldg_001_lod_1_solid_polygon_003">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689818 5333799 0 689818 5333811 0 689818 5333811 6 689818 5333799 6 689818 5333799 0</gml:posList>
@@ -65,7 +65,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_1_solid_polygon_004">
+                <gml:Polygon gml:id="bldg_001_lod_1_solid_polygon_004">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689818 5333811 0 689830 5333811 0 689830 5333811 6 689818 5333811 6 689818 5333811 0</gml:posList>
@@ -74,7 +74,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_1_solid_polygon_005">
+                <gml:Polygon gml:id="bldg_001_lod_1_solid_polygon_005">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689830 5333799 0 689818 5333799 0 689818 5333799 6 689830 5333799 6 689830 5333799 0</gml:posList>
@@ -83,7 +83,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_1_solid_polygon_006">
+                <gml:Polygon gml:id="bldg_001_lod_1_solid_polygon_006">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689830 5333811 0 689830 5333799 0 689830 5333799 6 689830 5333811 6 689830 5333811 0</gml:posList>
@@ -96,11 +96,11 @@
         </gml:Solid>
       </lod1Solid>
       <lod2Solid>
-        <gml:Solid gml:id="building_01_lod_2_solid" srsDimension="3">
+        <gml:Solid gml:id="bldg_001_lod_2_solid" srsDimension="3">
           <gml:exterior>
             <gml:Shell>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_2_solid_polygon_001">
+                <gml:Polygon gml:id="bldg_001_lod_2_solid_polygon_001">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689818 5333811 0 689818 5333799 0 689830 5333799 0 689830 5333811 0 689818 5333811 0</gml:posList>
@@ -109,7 +109,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_2_solid_polygon_002">
+                <gml:Polygon gml:id="bldg_001_lod_2_solid_polygon_002">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689818 5333799 6 689824 5333805 9 689830 5333799 6 689818 5333799 6</gml:posList>
@@ -118,7 +118,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_2_solid_polygon_003">
+                <gml:Polygon gml:id="bldg_001_lod_2_solid_polygon_003">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689818 5333811 6 689824 5333805 9 689818 5333799 6 689818 5333811 6</gml:posList>
@@ -127,7 +127,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_2_solid_polygon_004">
+                <gml:Polygon gml:id="bldg_001_lod_2_solid_polygon_004">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689830 5333799 6 689824 5333805 9 689830 5333811 6 689830 5333799 6</gml:posList>
@@ -136,7 +136,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_2_solid_polygon_005">
+                <gml:Polygon gml:id="bldg_001_lod_2_solid_polygon_005">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689818 5333799 0 689818 5333811 0 689818 5333811 6 689818 5333799 6 689818 5333799 0</gml:posList>
@@ -145,7 +145,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_2_solid_polygon_006">
+                <gml:Polygon gml:id="bldg_001_lod_2_solid_polygon_006">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689818 5333811 0 689830 5333811 0 689830 5333811 6 689818 5333811 6 689818 5333811 0</gml:posList>
@@ -154,7 +154,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_2_solid_polygon_007">
+                <gml:Polygon gml:id="bldg_001_lod_2_solid_polygon_007">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689830 5333799 0 689818 5333799 0 689818 5333799 6 689830 5333799 6 689830 5333799 0</gml:posList>
@@ -163,7 +163,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_2_solid_polygon_008">
+                <gml:Polygon gml:id="bldg_001_lod_2_solid_polygon_008">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689830 5333811 6 689824 5333805 9 689818 5333811 6 689830 5333811 6</gml:posList>
@@ -172,7 +172,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_2_solid_polygon_009">
+                <gml:Polygon gml:id="bldg_001_lod_2_solid_polygon_009">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689830 5333811 0 689830 5333799 0 689830 5333799 6 689830 5333811 6 689830 5333811 0</gml:posList>
@@ -185,11 +185,11 @@
         </gml:Solid>
       </lod2Solid>
       <lod3Solid>
-        <gml:Solid gml:id="building_01_lod_3_solid" srsDimension="3">
+        <gml:Solid gml:id="bldg_001_lod_3_solid" srsDimension="3">
           <gml:exterior>
             <gml:Shell>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_3_solid_polygon_001">
+                <gml:Polygon gml:id="bldg_001_lod_3_solid_polygon_001">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689824 5333805 9 689830 5333799 6 689827 5333799 6 689821 5333799 6 689818 5333799 6 689824 5333805 9</gml:posList>
@@ -198,7 +198,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_3_solid_polygon_002">
+                <gml:Polygon gml:id="bldg_001_lod_3_solid_polygon_002">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689818 5333811 6 689824 5333805 9 689818 5333799 6 689818 5333811 6</gml:posList>
@@ -207,7 +207,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_3_solid_polygon_003">
+                <gml:Polygon gml:id="bldg_001_lod_3_solid_polygon_003">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689824 5333805 9 689830 5333811 6 689830 5333799 6 689824 5333805 9</gml:posList>
@@ -216,7 +216,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_3_solid_polygon_004">
+                <gml:Polygon gml:id="bldg_001_lod_3_solid_polygon_004">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689819 5333810 0 689819 5333800 0 689829 5333800 0 689829 5333810 0 689819 5333810 0</gml:posList>
@@ -225,7 +225,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_3_solid_polygon_005">
+                <gml:Polygon gml:id="bldg_001_lod_3_solid_polygon_005">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689819 5333800 6 689821 5333800 6 689821 5333800 3 689827 5333800 3 689827 5333800 6 689829 5333800 6 689829 5333800 0 689819 5333800 0 689819 5333800 6</gml:posList>
@@ -234,7 +234,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_3_solid_polygon_006">
+                <gml:Polygon gml:id="bldg_001_lod_3_solid_polygon_006">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689819 5333810 0 689829 5333810 0 689829 5333810 6 689819 5333810 6 689819 5333810 0</gml:posList>
@@ -243,7 +243,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_3_solid_polygon_007">
+                <gml:Polygon gml:id="bldg_001_lod_3_solid_polygon_007">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689829 5333810 0 689829 5333800 0 689829 5333800 6 689829 5333810 6 689829 5333810 0</gml:posList>
@@ -252,7 +252,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_3_solid_polygon_008">
+                <gml:Polygon gml:id="bldg_001_lod_3_solid_polygon_008">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689827 5333799 3 689827 5333800 3 689821 5333800 3 689821 5333799 3 689827 5333799 3</gml:posList>
@@ -261,7 +261,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_3_solid_polygon_009">
+                <gml:Polygon gml:id="bldg_001_lod_3_solid_polygon_009">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689827 5333799 3 689821 5333799 3 689821 5333799 6 689827 5333799 6 689827 5333799 3</gml:posList>
@@ -270,7 +270,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_3_solid_polygon_010">
+                <gml:Polygon gml:id="bldg_001_lod_3_solid_polygon_010">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689821 5333800 3 689821 5333800 6 689821 5333799 6 689821 5333799 3 689821 5333800 3</gml:posList>
@@ -279,7 +279,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_3_solid_polygon_011">
+                <gml:Polygon gml:id="bldg_001_lod_3_solid_polygon_011">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689827 5333799 6 689827 5333800 6 689827 5333800 3 689827 5333799 3 689827 5333799 6</gml:posList>
@@ -288,7 +288,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_3_solid_polygon_012">
+                <gml:Polygon gml:id="bldg_001_lod_3_solid_polygon_012">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689818 5333811 6 689818 5333799 6 689821 5333799 6 689821 5333800 6 689819 5333800 6 689819 5333810 6 689829 5333810 6 689829 5333800 6 689827 5333800 6 689827 5333799 6 689830 5333799 6 689830 5333811 6 689818 5333811 6</gml:posList>
@@ -297,7 +297,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_3_solid_polygon_013">
+                <gml:Polygon gml:id="bldg_001_lod_3_solid_polygon_013">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689818 5333811 6 689830 5333811 6 689824 5333805 9 689818 5333811 6</gml:posList>
@@ -306,7 +306,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_01_lod_3_solid_polygon_014">
+                <gml:Polygon gml:id="bldg_001_lod_3_solid_polygon_014">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689819 5333800 6 689819 5333800 0 689819 5333810 0 689819 5333810 6 689819 5333800 6</gml:posList>

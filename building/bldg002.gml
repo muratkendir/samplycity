@@ -16,17 +16,17 @@
     </gml:Envelope>
   </gml:boundedBy>
   <cityObjectMember>
-    <bldg:Building gml:id="building_02">
+    <bldg:Building gml:id="bldg_002">
       <gml:description>bldg002 is a building object which has Boundaries (ground, roof and walls) and linked (xlink) LOD representations as solids</gml:description>
       <gml:name>Building 02</gml:name>
       <creationDate>2024-03-15T00:00:00</creationDate>
       <boundary>
-        <con:GroundSurface gml:id="building_02_groundsurface">
+        <con:GroundSurface gml:id="bldg_002_groundsurface">
           <gml:name>Ground Surface</gml:name>
           <lod2MultiSurface>
-            <gml:MultiSurface gml:id="building_02_groundsurface_l2_multisurface" srsDimension="3">
+            <gml:MultiSurface gml:id="bldg_002_groundsurface_l2_multisurface" srsDimension="3">
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_02_groundsurface_l2_multisurface_polygon_001">
+                <gml:Polygon gml:id="bldg_002_groundsurface_l2_multisurface_polygon_001">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689804 5333811 0 689816 5333811 0 689816 5333823 0 689804 5333823 0 689804 5333811 0</gml:posList>
@@ -37,9 +37,9 @@
             </gml:MultiSurface>
           </lod2MultiSurface>
           <lod3MultiSurface>
-            <gml:MultiSurface gml:id="building_02_groundsurface_l3_multisurface" srsDimension="3">
+            <gml:MultiSurface gml:id="bldg_002_groundsurface_l3_multisurface" srsDimension="3">
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_02_groundsurface_l3_multisurface_polygon_001">
+                <gml:Polygon gml:id="bldg_002_groundsurface_l3_multisurface_polygon_001">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689805 5333822 0 689805 5333812 0 689815 5333812 0 689815 5333822 0 689805 5333822 0</gml:posList>
@@ -52,12 +52,12 @@
         </con:GroundSurface>
       </boundary>
       <boundary>
-        <con:RoofSurface gml:id="building_02_roofsurface">
+        <con:RoofSurface gml:id="bldg_002_roofsurface">
           <gml:name>Roof Surface</gml:name>
           <lod1MultiSurface>
-            <gml:MultiSurface gml:id="building_02_roofsurface_l1_multisurface" srsDimension="3">
+            <gml:MultiSurface gml:id="bldg_002_roofsurface_l1_multisurface" srsDimension="3">
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_02_roofsurface_l1_multisurface_polygon_001">
+                <gml:Polygon gml:id="bldg_002_roofsurface_l1_multisurface_polygon_001">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689816 5333823 6 689816 5333811 6 689804 5333811 6 689804 5333823 6 689816 5333823 6</gml:posList>
@@ -68,9 +68,9 @@
             </gml:MultiSurface>
           </lod1MultiSurface>
           <lod2MultiSurface>
-            <gml:MultiSurface gml:id="building_02_roofsurface_l2_multisurface" srsDimension="3">
+            <gml:MultiSurface gml:id="bldg_002_roofsurface_l2_multisurface" srsDimension="3">
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_02_roofsurface_l2_multisurface_polygon_001">
+                <gml:Polygon gml:id="bldg_002_roofsurface_l2_multisurface_polygon_001">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689804 5333811 6 689810 5333817 9 689816 5333811 6 689804 5333811 6</gml:posList>
@@ -79,7 +79,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_02_roofsurface_l2_multisurface_polygon_002">
+                <gml:Polygon gml:id="bldg_002_roofsurface_l2_multisurface_polygon_002">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689804 5333823 6 689810 5333817 9 689804 5333811 6 689804 5333823 6</gml:posList>
@@ -88,7 +88,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_02_roofsurface_l2_multisurface_polygon_003">
+                <gml:Polygon gml:id="bldg_002_roofsurface_l2_multisurface_polygon_003">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689816 5333811 6 689810 5333817 9 689816 5333823 6 689816 5333811 6</gml:posList>
@@ -97,7 +97,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_02_roofsurface_l2_multisurface_polygon_004">
+                <gml:Polygon gml:id="bldg_002_roofsurface_l2_multisurface_polygon_004">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689816 5333823 6 689810 5333817 9 689804 5333823 6 689816 5333823 6</gml:posList>
@@ -107,16 +107,16 @@
               </gml:surfaceMember>
             </gml:MultiSurface>
           </lod2MultiSurface>
-          <lod3MultiSurface xlink:href="building_02_roofsurface_l2_multisurface"/>
+          <lod3MultiSurface xlink:href="bldg_002_roofsurface_l2_multisurface"/>
         </con:RoofSurface>
       </boundary>
       <boundary>
-        <con:WallSurface gml:id="building_02_wallsurface_01">
+        <con:WallSurface gml:id="bldg_002_wallsurface_01">
           <gml:name>Wall West</gml:name>
           <lod2MultiSurface>
-            <gml:MultiSurface gml:id="building_02_wallsurface_01_l2_multisurface" srsDimension="3">
+            <gml:MultiSurface gml:id="bldg_002_wallsurface_01_l2_multisurface" srsDimension="3">
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_02_wallsurface_01_l2_multisurface_polygon_001">
+                <gml:Polygon gml:id="bldg_002_wallsurface_01_l2_multisurface_polygon_001">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689804 5333811 0 689804 5333823 0 689804 5333823 6 689804 5333811 6 689804 5333811 0</gml:posList>
@@ -127,9 +127,9 @@
             </gml:MultiSurface>
           </lod2MultiSurface>
           <lod3MultiSurface>
-            <gml:MultiSurface gml:id="building_02_wallsurface_01_l3_multisurface" srsDimension="3">
+            <gml:MultiSurface gml:id="bldg_002_wallsurface_01_l3_multisurface" srsDimension="3">
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_02_wallsurface_01_l3_multisurface_polygon_001">
+                <gml:Polygon gml:id="bldg_002_wallsurface_01_l3_multisurface_polygon_001">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689805 5333812 6 689805 5333812 0 689805 5333822 0 689805 5333822 6 689805 5333812 6</gml:posList>
@@ -142,12 +142,12 @@
         </con:WallSurface>
       </boundary>
       <boundary>
-        <con:WallSurface gml:id="building_02_wallsurface_02">
+        <con:WallSurface gml:id="bldg_002_wallsurface_02">
           <gml:name>Wall North</gml:name>
           <lod2MultiSurface>
-            <gml:MultiSurface gml:id="building_02_wallsurface_02_l2_multisurface" srsDimension="3">
+            <gml:MultiSurface gml:id="bldg_002_wallsurface_02_l2_multisurface" srsDimension="3">
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_02_wallsurface_02_l2_multisurface_polygon_001">
+                <gml:Polygon gml:id="bldg_002_wallsurface_02_l2_multisurface_polygon_001">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689804 5333823 0 689816 5333823 0 689816 5333823 6 689804 5333823 6 689804 5333823 0</gml:posList>
@@ -158,9 +158,9 @@
             </gml:MultiSurface>
           </lod2MultiSurface>
           <lod3MultiSurface>
-            <gml:MultiSurface gml:id="building_02_wallsurface_02_l3_multisurface" srsDimension="3">
+            <gml:MultiSurface gml:id="bldg_002_wallsurface_02_l3_multisurface" srsDimension="3">
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_02_wallsurface_02_l3_multisurface_polygon_001">
+                <gml:Polygon gml:id="bldg_002_wallsurface_02_l3_multisurface_polygon_001">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689805 5333822 0 689815 5333822 0 689815 5333822 6 689805 5333822 6 689805 5333822 0</gml:posList>
@@ -173,12 +173,12 @@
         </con:WallSurface>
       </boundary>
       <boundary>
-        <con:WallSurface gml:id="building_02_wallsurface_03">
+        <con:WallSurface gml:id="bldg_002_wallsurface_03">
           <gml:name>Wall South</gml:name>
           <lod2MultiSurface>
-            <gml:MultiSurface gml:id="building_02_wallsurface_03_l2_multisurface" srsDimension="3">
+            <gml:MultiSurface gml:id="bldg_002_wallsurface_03_l2_multisurface" srsDimension="3">
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_02_wallsurface_03_l2_multisurface_polygon_001">
+                <gml:Polygon gml:id="bldg_002_wallsurface_03_l2_multisurface_polygon_001">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689816 5333811 0 689804 5333811 0 689804 5333811 6 689816 5333811 6 689816 5333811 0</gml:posList>
@@ -189,9 +189,9 @@
             </gml:MultiSurface>
           </lod2MultiSurface>
           <lod3MultiSurface>
-            <gml:MultiSurface gml:id="building_02_wallsurface_03_l3_multisurface" srsDimension="3">
+            <gml:MultiSurface gml:id="bldg_002_wallsurface_03_l3_multisurface" srsDimension="3">
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_02_wallsurface_03_l3_multisurface_polygon_001">
+                <gml:Polygon gml:id="bldg_002_wallsurface_03_l3_multisurface_polygon_001">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689805 5333812 6 689807 5333812 6 689807 5333812 3 689813 5333812 3 689813 5333812 6 689815 5333812 6 689815 5333812 0 689805 5333812 0 689805 5333812 6</gml:posList>
@@ -200,7 +200,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_02_wallsurface_03_l3_multisurface_polygon_002">
+                <gml:Polygon gml:id="bldg_002_wallsurface_03_l3_multisurface_polygon_002">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689813 5333811 3 689813 5333812 3 689807 5333812 3 689807 5333811 3 689813 5333811 3</gml:posList>
@@ -209,7 +209,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_02_wallsurface_03_l3_multisurface_polygon_003">
+                <gml:Polygon gml:id="bldg_002_wallsurface_03_l3_multisurface_polygon_003">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689813 5333811 3 689807 5333811 3 689807 5333811 6 689813 5333811 6 689813 5333811 3</gml:posList>
@@ -218,7 +218,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_02_wallsurface_03_l3_multisurface_polygon_004">
+                <gml:Polygon gml:id="bldg_002_wallsurface_03_l3_multisurface_polygon_004">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689807 5333812 3 689807 5333812 6 689807 5333811 6 689807 5333811 3 689807 5333812 3</gml:posList>
@@ -227,7 +227,7 @@
                 </gml:Polygon>
               </gml:surfaceMember>
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_02_wallsurface_03_l3_multisurface_polygon_005">
+                <gml:Polygon gml:id="bldg_002_wallsurface_03_l3_multisurface_polygon_005">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689813 5333811 6 689813 5333812 6 689813 5333812 3 689813 5333811 3 689813 5333811 6</gml:posList>
@@ -240,12 +240,12 @@
         </con:WallSurface>
       </boundary>
       <boundary>
-        <con:WallSurface gml:id="building_02_wallsurface_04">
+        <con:WallSurface gml:id="bldg_002_wallsurface_04">
           <gml:name>Wall East</gml:name>
           <lod2MultiSurface>
-            <gml:MultiSurface gml:id="building_02_wallsurface_04_l2_multisurface" srsDimension="3">
+            <gml:MultiSurface gml:id="bldg_002_wallsurface_04_l2_multisurface" srsDimension="3">
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_02_wallsurface_04_l2_multisurface_polygon_001">
+                <gml:Polygon gml:id="bldg_002_wallsurface_04_l2_multisurface_polygon_001">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689816 5333823 0 689816 5333811 0 689816 5333811 6 689816 5333823 6 689816 5333823 0</gml:posList>
@@ -256,9 +256,9 @@
             </gml:MultiSurface>
           </lod2MultiSurface>
           <lod3MultiSurface>
-            <gml:MultiSurface gml:id="building_02_wallsurface_04_l3_multisurface" srsDimension="3">
+            <gml:MultiSurface gml:id="bldg_002_wallsurface_04_l3_multisurface" srsDimension="3">
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_02_wallsurface_04_l3_multisurface_polygon_001">
+                <gml:Polygon gml:id="bldg_002_wallsurface_04_l3_multisurface_polygon_001">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689815 5333822 0 689815 5333812 0 689815 5333812 6 689815 5333822 6 689815 5333822 0</gml:posList>
@@ -271,12 +271,12 @@
         </con:WallSurface>
       </boundary>
       <boundary>
-        <con:OuterCeilingSurface gml:id="building_02_outerceilingsurface">
+        <con:OuterCeilingSurface gml:id="bldg_002_outerceilingsurface">
           <gml:name>Eaves</gml:name>
           <lod3MultiSurface>
-            <gml:MultiSurface gml:id="building_02_outerceilingsurface_l3_multisurface" srsDimension="3">
+            <gml:MultiSurface gml:id="bldg_002_outerceilingsurface_l3_multisurface" srsDimension="3">
               <gml:surfaceMember>
-                <gml:Polygon gml:id="building_02_outerceilingsurface_l3_multisurface_polygon_001">
+                <gml:Polygon gml:id="bldg_002_outerceilingsurface_l3_multisurface_polygon_001">
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:posList>689804 5333823 6 689804 5333811 6 689807 5333811 6 689807 5333812 6 689805 5333812 6 689805 5333822 6 689815 5333822 6 689815 5333812 6 689813 5333812 6 689813 5333811 6 689816 5333811 6 689816 5333823 6 689804 5333823 6</gml:posList>
@@ -288,56 +288,56 @@
           </lod3MultiSurface>
         </con:OuterCeilingSurface>
       </boundary>
-      <lod0MultiSurface xlink:href="#building_02_groundsurface_l2_multisurface"/>
+      <lod0MultiSurface gml:id="bldg_002_lod_l0_multisurface" xlink:href="#bldg_002_groundsurface_l2_multisurface"/>
       <lod1Solid>
-        <gml:Solid gml:id="building_02_lod_l1_solid">
+        <gml:Solid gml:id="bldg_002_lod_l1_solid">
           <gml:exterior>
             <gml:Shell>
-              <gml:surfaceMember xlink:href="#building_02_groundsurface_l2_multisurface_polygon_001"/>
-              <gml:surfaceMember xlink:href="#building_02_roofsurface_l1_multisurface_polygon_001"/>
-              <gml:surfaceMember xlink:href="#building_02_wallsurface_01_l2_multisurface_polygon_001"/>
-              <gml:surfaceMember xlink:href="#building_02_wallsurface_02_l2_multisurface_polygon_001"/>
-              <gml:surfaceMember xlink:href="#building_02_wallsurface_03_l2_multisurface_polygon_001"/>
-              <gml:surfaceMember xlink:href="#building_02_wallsurface_04_l2_multisurface_polygon_001"/>
+              <gml:surfaceMember xlink:href="#bldg_002_groundsurface_l2_multisurface_polygon_001"/>
+              <gml:surfaceMember xlink:href="#bldg_002_roofsurface_l1_multisurface_polygon_001"/>
+              <gml:surfaceMember xlink:href="#bldg_002_wallsurface_01_l2_multisurface_polygon_001"/>
+              <gml:surfaceMember xlink:href="#bldg_002_wallsurface_02_l2_multisurface_polygon_001"/>
+              <gml:surfaceMember xlink:href="#bldg_002_wallsurface_03_l2_multisurface_polygon_001"/>
+              <gml:surfaceMember xlink:href="#bldg_002_wallsurface_04_l2_multisurface_polygon_001"/>
             </gml:Shell>
           </gml:exterior>
         </gml:Solid>
       </lod1Solid>
       <lod2Solid>
-        <gml:Solid gml:id="building_02_lod_l2_solid">
+        <gml:Solid gml:id="bldg_002_lod_l2_solid">
           <gml:exterior>
             <gml:Shell>
-              <gml:surfaceMember xlink:href="#building_02_groundsurface_l2_multisurface_polygon_001"/>
-              <gml:surfaceMember xlink:href="#building_02_roofsurface_l1_multisurface_polygon_001"/>
-              <gml:surfaceMember xlink:href="#building_02_roofsurface_l1_multisurface_polygon_002"/>
-              <gml:surfaceMember xlink:href="#building_02_roofsurface_l1_multisurface_polygon_003"/>
-              <gml:surfaceMember xlink:href="#building_02_roofsurface_l1_multisurface_polygon_004"/>
-              <gml:surfaceMember xlink:href="#building_02_wallsurface_01_l2_multisurface_polygon_001"/>
-              <gml:surfaceMember xlink:href="#building_02_wallsurface_02_l2_multisurface_polygon_001"/>
-              <gml:surfaceMember xlink:href="#building_02_wallsurface_03_l2_multisurface_polygon_001"/>
-              <gml:surfaceMember xlink:href="#building_02_wallsurface_04_l2_multisurface_polygon_001"/>
+              <gml:surfaceMember xlink:href="#bldg_002_groundsurface_l2_multisurface_polygon_001"/>
+              <gml:surfaceMember xlink:href="#bldg_002_roofsurface_l1_multisurface_polygon_001"/>
+              <gml:surfaceMember xlink:href="#bldg_002_roofsurface_l1_multisurface_polygon_002"/>
+              <gml:surfaceMember xlink:href="#bldg_002_roofsurface_l1_multisurface_polygon_003"/>
+              <gml:surfaceMember xlink:href="#bldg_002_roofsurface_l1_multisurface_polygon_004"/>
+              <gml:surfaceMember xlink:href="#bldg_002_wallsurface_01_l2_multisurface_polygon_001"/>
+              <gml:surfaceMember xlink:href="#bldg_002_wallsurface_02_l2_multisurface_polygon_001"/>
+              <gml:surfaceMember xlink:href="#bldg_002_wallsurface_03_l2_multisurface_polygon_001"/>
+              <gml:surfaceMember xlink:href="#bldg_002_wallsurface_04_l2_multisurface_polygon_001"/>
             </gml:Shell>
           </gml:exterior>
         </gml:Solid>
       </lod2Solid>
       <lod3Solid>
-        <gml:Solid gml:id="building_02_lod_l3_solid">
+        <gml:Solid gml:id="bldg_002_lod_l3_solid">
           <gml:exterior>
             <gml:Shell>
-              <gml:surfaceMember xlink:href="#building_02_groundsurface_l3_multisurface_polygon_001"/>
-              <gml:surfaceMember xlink:href="#building_02_roofsurface_l2_multisurface_polygon_001"/>
-              <gml:surfaceMember xlink:href="#building_02_roofsurface_l2_multisurface_polygon_002"/>
-              <gml:surfaceMember xlink:href="#building_02_roofsurface_l2_multisurface_polygon_003"/>
-              <gml:surfaceMember xlink:href="#building_02_roofsurface_l2_multisurface_polygon_004"/>
-              <gml:surfaceMember xlink:href="#building_02_wallsurface_01_l3_multisurface_polygon_001"/>
-              <gml:surfaceMember xlink:href="#building_02_wallsurface_02_l3_multisurface_polygon_001"/>
-              <gml:surfaceMember xlink:href="#building_02_wallsurface_03_l3_multisurface_polygon_001"/>
-              <gml:surfaceMember xlink:href="#building_02_wallsurface_03_l3_multisurface_polygon_002"/>
-              <gml:surfaceMember xlink:href="#building_02_wallsurface_03_l3_multisurface_polygon_003"/>
-              <gml:surfaceMember xlink:href="#building_02_wallsurface_03_l3_multisurface_polygon_004"/>
-              <gml:surfaceMember xlink:href="#building_02_wallsurface_03_l3_multisurface_polygon_005"/>
-              <gml:surfaceMember xlink:href="#building_02_wallsurface_04_l3_multisurface_polygon_001"/>
-              <gml:surfaceMember xlink:href="#building_02_outerceilingsurface_l3_multisurface_polygon_001"/>
+              <gml:surfaceMember xlink:href="#bldg_002_groundsurface_l3_multisurface_polygon_001"/>
+              <gml:surfaceMember xlink:href="#bldg_002_roofsurface_l2_multisurface_polygon_001"/>
+              <gml:surfaceMember xlink:href="#bldg_002_roofsurface_l2_multisurface_polygon_002"/>
+              <gml:surfaceMember xlink:href="#bldg_002_roofsurface_l2_multisurface_polygon_003"/>
+              <gml:surfaceMember xlink:href="#bldg_002_roofsurface_l2_multisurface_polygon_004"/>
+              <gml:surfaceMember xlink:href="#bldg_002_wallsurface_01_l3_multisurface_polygon_001"/>
+              <gml:surfaceMember xlink:href="#bldg_002_wallsurface_02_l3_multisurface_polygon_001"/>
+              <gml:surfaceMember xlink:href="#bldg_002_wallsurface_03_l3_multisurface_polygon_001"/>
+              <gml:surfaceMember xlink:href="#bldg_002_wallsurface_03_l3_multisurface_polygon_002"/>
+              <gml:surfaceMember xlink:href="#bldg_002_wallsurface_03_l3_multisurface_polygon_003"/>
+              <gml:surfaceMember xlink:href="#bldg_002_wallsurface_03_l3_multisurface_polygon_004"/>
+              <gml:surfaceMember xlink:href="#bldg_002_wallsurface_03_l3_multisurface_polygon_005"/>
+              <gml:surfaceMember xlink:href="#bldg_002_wallsurface_04_l3_multisurface_polygon_001"/>
+              <gml:surfaceMember xlink:href="#bldg_002_outerceilingsurface_l3_multisurface_polygon_001"/>
             </gml:Shell>
           </gml:exterior>
         </gml:Solid>
