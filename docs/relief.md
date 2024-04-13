@@ -8,5 +8,6 @@
 
 **Tags:** TriangulatedSurface, TINRelief, ReliefFeature
 
+[View the Building 1 in 3D Mode](https://github.com/muratkendir/samplycity/tree/main/docs/dem3d/dem001.md){:target="_blank"}
 ![dem001](images/dem001.png)
 ![dem001 base](images/dem001_base.png)
