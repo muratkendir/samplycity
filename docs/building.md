@@ -8,7 +8,7 @@
 
 **Tags:** lod0MultiSurface, lod1Solid, lod2Solid, lod3Solid
 
-[View the Building 1 in 3D Mode](https://github.com/muratkendir/samplycity/tree/main/docs/buildings3d/bldg001.md)
+[View the Building 1 in 3D Mode](https://github.com/muratkendir/samplycity/tree/main/docs/buildings3d/bldg001.md){:target="_blank"}
 ![bldg001](images/bldg001.png)
 ![bldg001 base](images/bldg001_base.png)
 
@@ -42,7 +42,7 @@
 
 **Tags:** lod3Solid, lod3TerrainIntersectionCurve, Building, Storey
 
-[View the Building 8 in 3D Mode](https://github.com/muratkendir/samplycity/tree/main/docs/buildings3d/bldg008.md)
+[View the Building 8 in 3D Mode](https://github.com/muratkendir/samplycity/tree/main/docs/buildings3d/bldg008.md){:target="_blank"}
 ![bldg008](images/bldg008.png)
 ![bldg008 base](images/bldg008_base.png)
 
@@ -65,5 +65,6 @@
 
 **Tags:** lod3MultiSurface, lod3Solid, Building, GroundSurface, RoofSurface, WallSurface, OuterCeilingSurface, DoorSurface, WindowSurface, FloorSurface, InteriorWallSurface, CeilingSurface, BuildingRoom
 
+[View the Building 10 in 3D Mode](https://github.com/muratkendir/samplycity/tree/main/docs/buildings3d/bldg010.md){:target="_blank"}
 ![bldg010](images/bldg010.png)
 ![bldg010 base](images/bldg010_base.png)
