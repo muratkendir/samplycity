@@ -42,6 +42,7 @@
 
 **Tags:** lod3Solid, lod3TerrainIntersectionCurve, Building, Storey
 
+[View the Building in 3D Mode](https://github.com/muratkendir/samplycity/tree/main/docs/buildings3d/bldg008.md)
 ![bldg008](images/bldg008.png)
 ![bldg008 base](images/bldg008_base.png)
 
