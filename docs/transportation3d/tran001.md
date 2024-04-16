@@ -680,123 +680,123 @@ facet normal -0 0 1
   vertex 57 27 2.0000095
  endloop
 endfacet
-facet normal 0 0 -1
- outer loop
-  vertex 55 8 0.99999905
-  vertex 56 8 0.99999905
-  vertex 28 0 0.99999905
- endloop
-endfacet
-facet normal 0 0 -1
- outer loop
-  vertex 55 8 0.99999905
-  vertex 28 0 0.99999905
-  vertex 28 1 0.99999905
- endloop
-endfacet
-facet normal 0 0 -1
- outer loop
-  vertex 57 27 0.99999905
-  vertex 55 8 0.99999905
-  vertex 28 1 0.99999905
- endloop
-endfacet
-facet normal 0 -0 -1
- outer loop
-  vertex 1 41 0.99999905
-  vertex 0 41 0.99999905
-  vertex 28 53 0.99999905
- endloop
-endfacet
-facet normal 0 0 -1
- outer loop
-  vertex 57 27 0.99999905
-  vertex 28 1 0.99999905
-  vertex 1 41 0.99999905
- endloop
-endfacet
-facet normal 0 0 -1
- outer loop
-  vertex 71 41 0.99999905
-  vertex 57 27 0.99999905
-  vertex 1 41 0.99999905
- endloop
-endfacet
-facet normal -0 0 -1
- outer loop
-  vertex 1 41 0.99999905
-  vertex 28 53 0.99999905
-  vertex 29 52 0.99999905
- endloop
-endfacet
-facet normal 0 -0 -1
- outer loop
-  vertex 36 55 0.99999905
-  vertex 36 56 0.99999905
-  vertex 69 65 0.99999905
- endloop
-endfacet
-facet normal 0 -0 -1
- outer loop
-  vertex 71 41 0.99999905
-  vertex 1 41 0.99999905
-  vertex 29 52 0.99999905
- endloop
-endfacet
-facet normal 0 0 -1
- outer loop
-  vertex 29 52 0.99999905
-  vertex 36 55 0.99999905
-  vertex 69 65 0.99999905
- endloop
-endfacet
-facet normal -0 0 -1
- outer loop
-  vertex 29 52 0.99999905
-  vertex 69 65 0.99999905
-  vertex 70 64 0.99999905
- endloop
-endfacet
-facet normal 0 0 -1
+facet normal 0 0 1
  outer loop
   vertex 124 57 0.99999905
-  vertex 71 41 0.99999905
-  vertex 29 52 0.99999905
- endloop
-endfacet
-facet normal 0 0 -1
- outer loop
-  vertex 122 71 0.99999905
   vertex 125 56 0.99999905
-  vertex 124 57 0.99999905
- endloop
-endfacet
-facet normal -0 -0 -1
- outer loop
-  vertex 122 70 0.99999905
   vertex 122 71 0.99999905
-  vertex 124 57 0.99999905
  endloop
 endfacet
-facet normal 0 -0 -1
+facet normal -0 0 1
  outer loop
   vertex 124 57 0.99999905
-  vertex 29 52 0.99999905
-  vertex 70 64 0.99999905
- endloop
-endfacet
-facet normal -0 0 -1
- outer loop
-  vertex 104 65 0.99999905
+  vertex 122 71 0.99999905
   vertex 122 70 0.99999905
-  vertex 124 57 0.99999905
  endloop
 endfacet
-facet normal -0 0 -1
+facet normal 0 0 1
+ outer loop
+  vertex 71 41 0.99999905
+  vertex 124 57 0.99999905
+  vertex 122 70 0.99999905
+ endloop
+endfacet
+facet normal -0 0 1
+ outer loop
+  vertex 71 41 0.99999905
+  vertex 122 70 0.99999905
+  vertex 104 65 0.99999905
+ endloop
+endfacet
+facet normal -0 0 1
+ outer loop
+  vertex 71 41 0.99999905
+  vertex 104 65 0.99999905
+  vertex 70 64 0.99999905
+ endloop
+endfacet
+facet normal -0 0 1
  outer loop
   vertex 70 64 0.99999905
-  vertex 104 65 0.99999905
-  vertex 124 57 0.99999905
+  vertex 69 65 0.99999905
+  vertex 36 56 0.99999905
+ endloop
+endfacet
+facet normal 0 0 1
+ outer loop
+  vertex 70 64 0.99999905
+  vertex 36 56 0.99999905
+  vertex 36 55 0.99999905
+ endloop
+endfacet
+facet normal 0 0 1
+ outer loop
+  vertex 57 27 0.99999905
+  vertex 71 41 0.99999905
+  vertex 70 64 0.99999905
+ endloop
+endfacet
+facet normal -0 0 1
+ outer loop
+  vertex 28 0 0.99999905
+  vertex 56 8 0.99999905
+  vertex 55 8 0.99999905
+ endloop
+endfacet
+facet normal -0 0 1
+ outer loop
+  vertex 57 27 0.99999905
+  vertex 70 64 0.99999905
+  vertex 36 55 0.99999905
+ endloop
+endfacet
+facet normal 0 0 1
+ outer loop
+  vertex 28 0 0.99999905
+  vertex 55 8 0.99999905
+  vertex 57 27 0.99999905
+ endloop
+endfacet
+facet normal 0 -0 1
+ outer loop
+  vertex 28 1 0.99999905
+  vertex 28 0 0.99999905
+  vertex 57 27 0.99999905
+ endloop
+endfacet
+facet normal -0 0 1
+ outer loop
+  vertex 57 27 0.99999905
+  vertex 36 55 0.99999905
+  vertex 29 52 0.99999905
+ endloop
+endfacet
+facet normal -0 0 1
+ outer loop
+  vertex 29 52 0.99999905
+  vertex 28 53 0.99999905
+  vertex 0 41 0.99999905
+ endloop
+endfacet
+facet normal 0 0 1
+ outer loop
+  vertex 1 41 0.99999905
+  vertex 28 1 0.99999905
+  vertex 57 27 0.99999905
+ endloop
+endfacet
+facet normal 0 -0 1
+ outer loop
+  vertex 29 52 0.99999905
+  vertex 0 41 0.99999905
+  vertex 1 41 0.99999905
+ endloop
+endfacet
+facet normal -0 0 1
+ outer loop
+  vertex 57 27 0.99999905
+  vertex 29 52 0.99999905
+  vertex 1 41 0.99999905
  endloop
 endfacet
 facet normal 0 1 0
