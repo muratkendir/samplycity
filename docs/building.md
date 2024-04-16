@@ -54,6 +54,7 @@
 
 **Tags:** CompositeSurface, lod3MultiSurface, Building
 
+[View the Building 9 in 3D Mode](https://github.com/muratkendir/samplycity/tree/main/docs/buildings3d/bldg009.md){:target="_blank"}
 ![bldg009](images/bldg009.png)
 ![bldg009 base](images/bldg009_base.png)
 
