@@ -191,18 +191,18 @@ facet normal -0.9805807 -0.19611613 0
   vertex 0 16 1
  endloop
 endfacet
-facet normal 0 -0 -1
+facet normal 0 0 1
  outer loop
   vertex 9 0 2.0000005
-  vertex 5 19 2.0000005
+  vertex 26 4 2.0000005
   vertex 20 23 2.0000005
  endloop
 endfacet
-facet normal -0 0 -1
+facet normal -0 0 1
  outer loop
   vertex 9 0 2.0000005
   vertex 20 23 2.0000005
-  vertex 26 4 2.0000005
+  vertex 5 19 2.0000005
  endloop
 endfacet
 facet normal -0.25766265 0.966235 0
@@ -233,32 +233,32 @@ facet normal 0 0 -1
   vertex 9 0 1
  endloop
 endfacet
-facet normal -0.1957412 -0.06181301 -0.9787056
+facet normal 0.19812067 0.061912708 0.97822034
  outer loop
   vertex 26 4 2.0000005
-  vertex 20 23 2.0000005
-  vertex 25 23 1
- endloop
-endfacet
-facet normal -0.19812067 -0.061912708 -0.97822034
- outer loop
-  vertex 26 4 2.0000005
-  vertex 25 23 1
   vertex 30 7 1
+  vertex 25 23 1
  endloop
 endfacet
-facet normal 0.17568217 0.035136435 -0.98381966
+facet normal 0.1957412 0.06181301 0.9787056
  outer loop
-  vertex 3 1 1
-  vertex 0 16 1
-  vertex 5 19 2.0000005
+  vertex 26 4 2.0000005
+  vertex 25 23 1
+  vertex 20 23 2.0000005
  endloop
 endfacet
-facet normal 0.17009781 0.035810065 -0.9847763
+facet normal -0.17009781 -0.035810065 0.9847763
  outer loop
   vertex 3 1 1
-  vertex 5 19 2.0000005
   vertex 9 0 2.0000005
+  vertex 5 19 2.0000005
+ endloop
+endfacet
+facet normal -0.17568216 -0.035136435 0.98381966
+ outer loop
+  vertex 3 1 1
+  vertex 5 19 2.0000005
+  vertex 0 16 1
  endloop
 endfacet
 endsolid 
