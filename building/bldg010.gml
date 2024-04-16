@@ -507,10 +507,10 @@
           <gml:exterior>
             <gml:Shell>
               <gml:surfaceMember xlink:href="#bldg_010_groundsurface_l3_multisurface_polygon_001"/>
-              <gml:surfaceMember xlink:href="#bldg_010_roofsurface_l2_multisurface_polygon_001"/>
-              <gml:surfaceMember xlink:href="#bldg_010_roofsurface_l2_multisurface_polygon_002"/>
-              <gml:surfaceMember xlink:href="#bldg_010_roofsurface_l2_multisurface_polygon_003"/>
-              <gml:surfaceMember xlink:href="#bldg_010_roofsurface_l2_multisurface_polygon_004"/>
+              <gml:surfaceMember xlink:href="#bldg_010_roofsurface_l3_multisurface_polygon_001"/>
+              <gml:surfaceMember xlink:href="#bldg_010_roofsurface_l3_multisurface_polygon_002"/>
+              <gml:surfaceMember xlink:href="#bldg_010_roofsurface_l3_multisurface_polygon_003"/>
+              <gml:surfaceMember xlink:href="#bldg_010_roofsurface_l3_multisurface_polygon_004"/>
               <gml:surfaceMember xlink:href="#bldg_010_wallsurface_01_l3_multisurface_polygon_001"/>
               <gml:surfaceMember xlink:href="#bldg_010_wallsurface_02_l3_multisurface_polygon_001"/>
               <gml:surfaceMember xlink:href="#bldg_010_wallsurface_03_l3_multisurface_polygon_001"/>
