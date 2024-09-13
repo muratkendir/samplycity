@@ -34,6 +34,16 @@
 ![bldg003](images/bldg003.png)
 ![bldg003 base](images/bldg003_base.png)
 
+## bldg004
+
+**File Name:** bldg004.gml
+
+**Description:** Bldg004 is a building object which BuildingConstructiveElement features with Solid geometries.
+
+**Tags:** lod1Solid, Building, BuildingConstructiveElement, Door
+
+**No image yet**
+
 ## bldg008
 
 **File Name:** bldg008.gml
