@@ -256,7 +256,25 @@
           </lod3MultiSurface>
         </con:WallSurface>
       </boundary>
-      <lod3Solid>
+      <boundary>
+        <con:DoorSurface gml:id="bldg004_door001">
+          <gml:name>exterior door</gml:name>
+          <lod3MultiSurface>
+            <gml:MultiSurface gml:id="bldg004_door001_lod3multisurface001">
+              <gml:surfaceMember>
+                <gml:Polygon gml:id="bldg004_door001_lod3multisurface001_polygon001">
+                  <gml:exterior>
+                    <gml:LinearRing>
+                      <gml:posList>689582 5333770 5 689585 5333770 5 689585 5333770 1 689582 5333770 1 689582 5333770 5</gml:posList>
+                    </gml:LinearRing>
+                  </gml:exterior>
+                </gml:Polygon>
+              </gml:surfaceMember>
+            </gml:MultiSurface>
+          </lod3MultiSurface>
+        </con:DoorSurface>
+      </boundary>
+      <!--<lod3Solid>
         <gml:Solid gml:id="bldg004_lod3solid">
           <gml:exterior>
             <gml:Shell gml:id="bldg004_lod3solid_shell">
@@ -274,10 +292,11 @@
               <gml:surfaceMember xlink:href="#bldg004_wall007_lod3multisurface001_polygon002"></gml:surfaceMember>
               <gml:surfaceMember xlink:href="#bldg004_wall008_lod3multisurface001_polygon001"></gml:surfaceMember>
               <gml:surfaceMember xlink:href="#bldg004_wall008_lod3multisurface001_polygon002"></gml:surfaceMember>
+              <gml:surfaceMember xlink:href="#bldg004_door001_lod3multisurface001_polygon001"></gml:surfaceMember>
             </gml:Shell>
           </gml:exterior>
         </gml:Solid>
-      </lod3Solid>
+      </lod3Solid>-->
       <con:height>
         <con:Height>
           <con:highReference>highestRoofEdge</con:highReference>
@@ -1036,6 +1055,12 @@
         <bldg:BuildingConstructiveElement gml:id="bldg004_buildingconstructiveelement011">
           <con:filling>
             <con:Door gml:id="bldg004_buildingconstructiveelement011_door001">
+              <boundary>
+                <con:DoorSurface gml:id="bldg004_buildingconstructiveelement011_door001_doorsurface001">
+                  <gml:name>exterior door face</gml:name>
+                  <lod3MultiSurface xlink:href="#bldg004_door001_lod3multisurface001"></lod3MultiSurface>
+                </con:DoorSurface>
+              </boundary>
               <lod1Solid>
                 <gml:Solid gml:id="bldg004_buildingconstructiveelement011_door001_lod1solid">
                   <gml:exterior>
