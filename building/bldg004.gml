@@ -274,6 +274,150 @@
           </lod3MultiSurface>
         </con:DoorSurface>
       </boundary>
+      <boundary>
+        <con:DoorSurface gml:id="bldg004_window001">
+        <gml:name>exterior window 1</gml:name>
+        <lod3MultiSurface>
+          <gml:MultiSurface gml:id="bldg004_window001_lod3multisurface001">
+            <gml:surfaceMember>
+              <gml:Polygon gml:id="bldg004_window001_lod3multisurface001_polygon001">
+                <gml:exterior>
+                  <gml:LinearRing>
+                    <gml:posList>689564 5333770 6 689566 5333770 6 689566 5333770 3 689564 5333770 3 689564 5333770 6</gml:posList>
+                  </gml:LinearRing>
+                </gml:exterior>
+              </gml:Polygon>
+            </gml:surfaceMember>
+          </gml:MultiSurface>
+        </lod3MultiSurface>
+        </con:DoorSurface>
+      </boundary>
+      <boundary>
+        <con:DoorSurface gml:id="bldg004_window002">
+          <gml:name>exterior window 2</gml:name>
+          <lod3MultiSurface>
+            <gml:MultiSurface gml:id="bldg004_window002_lod3multisurface001">
+              <gml:surfaceMember>
+                <gml:Polygon gml:id="bldg004_window002_lod3multisurface001_polygon001">
+                  <gml:exterior>
+                    <gml:LinearRing>
+                      <gml:posList>689568 5333770 6 689570 5333770 6 689570 5333770 3 689568 5333770 3 689568 5333770 6</gml:posList>
+                    </gml:LinearRing>
+                  </gml:exterior>
+                </gml:Polygon>
+              </gml:surfaceMember>
+            </gml:MultiSurface>
+          </lod3MultiSurface>
+        </con:DoorSurface>
+      </boundary>
+      <boundary>
+        <con:DoorSurface gml:id="bldg004_window003">
+          <gml:name>exterior window 3</gml:name>
+          <lod3MultiSurface>
+            <gml:MultiSurface gml:id="bldg004_window003_lod3multisurface001">
+              <gml:surfaceMember>
+                <gml:Polygon gml:id="bldg004_window003_lod3multisurface001_polygon001">
+                  <gml:exterior>
+                    <gml:LinearRing>
+                      <gml:posList>689572 5333770 6 689574 5333770 6 689574 5333770 3 689572 5333770 3 689572 5333770 6</gml:posList>
+                    </gml:LinearRing>
+                  </gml:exterior>
+                </gml:Polygon>
+              </gml:surfaceMember>
+            </gml:MultiSurface>
+          </lod3MultiSurface>
+        </con:DoorSurface>
+      </boundary>
+      <boundary>
+        <con:DoorSurface gml:id="bldg004_window004">
+          <gml:name>exterior window 4</gml:name>
+          <lod3MultiSurface>
+            <gml:MultiSurface gml:id="bldg004_window004_lod3multisurface001">
+              <gml:surfaceMember>
+                <gml:Polygon gml:id="bldg004_window004_lod3multisurface001_polygon001">
+                  <gml:exterior>
+                    <gml:LinearRing>
+                      <gml:posList>689576 5333770 6 689578 5333770 6 689578 5333770 3 689576 5333770 3 689576 5333770 6</gml:posList>
+                    </gml:LinearRing>
+                  </gml:exterior>
+                </gml:Polygon>
+              </gml:surfaceMember>
+            </gml:MultiSurface>
+          </lod3MultiSurface>
+        </con:DoorSurface>
+      </boundary>
+      <boundary>
+        <con:DoorSurface gml:id="bldg004_beam001">
+          <gml:name>Beam 1</gml:name>
+          <lod3MultiSurface>
+            <gml:MultiSurface gml:id="bldg004_beam001_lod3multisurface001">
+              <gml:surfaceMember>
+                <gml:Polygon gml:id="bldg004_beam001_lod3multisurface001_polygon001">
+                  <gml:exterior>
+                    <gml:LinearRing>
+                      <gml:posList>689590 5333772 8 689590 5333772 7 689590 5333788 7 689590 5333788 8 689590 5333772 8</gml:posList>
+                    </gml:LinearRing>
+                  </gml:exterior>
+                </gml:Polygon>
+              </gml:surfaceMember>
+            </gml:MultiSurface>
+          </lod3MultiSurface>
+        </con:DoorSurface>
+      </boundary>
+      <boundary>
+        <con:DoorSurface gml:id="bldg004_beam002">
+          <gml:name>Beam 2</gml:name>
+          <lod3MultiSurface>
+            <gml:MultiSurface gml:id="bldg004_beam002_lod3multisurface001">
+              <gml:surfaceMember>
+                <gml:Polygon gml:id="bldg004_beam002_lod3multisurface001_polygon001">
+                  <gml:exterior>
+                    <gml:LinearRing>
+                      <gml:posList>689588 5333790 8 689588 5333790 7 689562 5333790 7 689562 5333790 8 689588 5333790 8</gml:posList>
+                    </gml:LinearRing>
+                  </gml:exterior>
+                </gml:Polygon>
+              </gml:surfaceMember>
+            </gml:MultiSurface>
+          </lod3MultiSurface>
+        </con:DoorSurface>
+      </boundary>
+      <boundary>
+        <con:DoorSurface gml:id="bldg004_beam003">
+          <gml:name>Beam 3</gml:name>
+          <lod3MultiSurface>
+            <gml:MultiSurface gml:id="bldg004_beam003_lod3multisurface001">
+              <gml:surfaceMember>
+                <gml:Polygon gml:id="bldg004_beam003_lod3multisurface001_polygon001">
+                  <gml:exterior>
+                    <gml:LinearRing>
+                      <gml:posList>689562 5333770 8 689588 5333770 8 689588 5333770 7 689562 5333770 7 689562 5333770 8</gml:posList>
+                    </gml:LinearRing>
+                  </gml:exterior>
+                </gml:Polygon>
+              </gml:surfaceMember>
+            </gml:MultiSurface>
+          </lod3MultiSurface>
+        </con:DoorSurface>
+      </boundary>
+      <boundary>
+        <con:DoorSurface gml:id="bldg004_beam004">
+          <gml:name>Beam 4</gml:name>
+          <lod3MultiSurface>
+            <gml:MultiSurface gml:id="bldg004_beam004_lod3multisurface001">
+              <gml:surfaceMember>
+                <gml:Polygon gml:id="bldg004_beam004_lod3multisurface001_polygon001">
+                  <gml:exterior>
+                    <gml:LinearRing>
+                      <gml:posList>689560 5333788 8 689560 5333788 7 689560 5333772 7 689560 5333772 8 689560 5333788 8</gml:posList>
+                    </gml:LinearRing>
+                  </gml:exterior>
+                </gml:Polygon>
+              </gml:surfaceMember>
+            </gml:MultiSurface>
+          </lod3MultiSurface>
+        </con:DoorSurface>
+      </boundary>
       <!--<lod3Solid>
         <gml:Solid gml:id="bldg004_lod3solid">
           <gml:exterior>
@@ -307,6 +451,7 @@
       </con:height>
       <bldg:buildingConstructiveElement>
         <bldg:BuildingConstructiveElement gml:id="bldg004_buildingconstructiveelement001">
+          <gml:name>roof</gml:name>
           <lod1Solid>
             <gml:Solid gml:id="bldg004_buildingconstructiveelement001_lod1solid">
               <gml:exterior>
@@ -369,11 +514,14 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
-          <bldg:function>roof</bldg:function>
+          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
+            IfcRoof
+          </bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
         <bldg:BuildingConstructiveElement gml:id="bldg004_buildingconstructiveelement002">
+          <gml:name>floor</gml:name>
           <lod1Solid>
             <gml:Solid gml:id="bldg004_buildingconstructiveelement002_lod1solid">
               <gml:exterior>
@@ -436,11 +584,14 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
-          <bldg:function>floor</bldg:function>
+          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
+            IfcSlab
+          </bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
         <bldg:BuildingConstructiveElement gml:id="bldg004_buildingconstructiveelement003">
+          <gml:name>exteriorwall_north</gml:name>
           <lod1Solid>
             <gml:Solid gml:id="bldg004_buildingconstructiveelement003_lod1solid">
               <gml:exterior>
@@ -503,11 +654,14 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
-          <bldg:function>exteriorwall-north</bldg:function>
+          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
+            IfcWall
+          </bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
         <bldg:BuildingConstructiveElement gml:id="bldg004_buildingconstructiveelement004">
+          <gml:name>exteriorwall_west</gml:name>
           <lod1Solid>
             <gml:Solid gml:id="bldg004_buildingconstructiveelement004_lod1solid">
               <gml:exterior>
@@ -570,11 +724,14 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
-          <bldg:function>exteriorwall-west</bldg:function>
+          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
+            IfcWall
+          </bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
         <bldg:BuildingConstructiveElement gml:id="bldg004_buildingconstructiveelement005">
+          <gml:name>exteriorwall_east</gml:name>
           <lod1Solid>
             <gml:Solid gml:id="bldg004_buildingconstructiveelement005_lod1solid">
               <gml:exterior>
@@ -637,11 +794,14 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
-          <bldg:function>exteriorwall-east</bldg:function>
+          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
+            IfcWall
+          </bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
         <bldg:BuildingConstructiveElement gml:id="bldg004_buildingconstructiveelement006">
+          <gml:name>exteriorwall_south</gml:name>
           <lod1Solid>
             <gml:Solid gml:id="bldg004_buildingconstructiveelement006_lod1solid">
               <gml:exterior>
@@ -780,11 +940,384 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
-          <bldg:function>exteriorwall-south</bldg:function>
+          <con:filling>
+            <con:Door gml:id="bldg004_buildingconstructiveelement006_door001">
+              <gml:name>door</gml:name>
+              <boundary>
+                <con:DoorSurface gml:id="bldg004_buildingconstructiveelement006_door001_doorsurface001">
+                  <gml:name>exterior door face</gml:name>
+                  <lod3MultiSurface xlink:href="#bldg004_door001_lod3multisurface001"></lod3MultiSurface>
+                </con:DoorSurface>
+              </boundary>
+              <lod1Solid>
+                <gml:Solid gml:id="bldg004_buildingconstructiveelement006_door001_lod1solid">
+                  <gml:exterior>
+                    <gml:Shell gml:id="bldg004_buildingconstructiveelement006_door001_lod1solid_shell">
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_door001_lod1solid_shell_polygon001">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689582 5333770 5 689585 5333770 5 689585 5333770 1 689582 5333770 1 689582 5333770 5</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_door001_lod1solid_shell_polygon002">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689585 5333771 5 689585 5333771 1 689582 5333771 1 689582 5333771 5 689585 5333771 5</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_door001_lod1solid_shell_polygon003">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689582 5333771 5 689582 5333771 1 689582 5333770 1 689582 5333770 5 689582 5333771 5</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_door001_lod1solid_shell_polygon004">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689585 5333770 5 689585 5333770 1 689585 5333771 1 689585 5333771 5 689585 5333770 5</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_door001_lod1solid_shell_polygon005">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689582 5333770 5 689582 5333771 5 689585 5333771 5 689585 5333770 5 689582 5333770 5</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_door001_lod1solid_shell_polygon006">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689585 5333770 1 689582 5333770 1 689582 5333771 1 689585 5333771 1 689585 5333770 1</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                    </gml:Shell>
+                  </gml:exterior>
+                </gml:Solid>
+              </lod1Solid>
+              <con:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
+                IfcDoor
+              </con:function>
+            </con:Door>
+          </con:filling>
+          <con:filling>
+            <con:Window gml:id="bldg004_buildingconstructiveelement006_window001">
+              <gml:name>window 1</gml:name>
+              <boundary>
+                <con:WindowSurface gml:id="bldg004_buildingconstructiveelement006_window001_windowsurface001">
+                  <gml:name>exterior window 1 face</gml:name>
+                  <lod3MultiSurface xlink:href="#bldg004_window001_lod3multisurface001"></lod3MultiSurface>
+                </con:WindowSurface>
+              </boundary>
+              <lod1Solid>
+                <gml:Solid gml:id="bldg004_buildingconstructiveelement006_window001_lod1solid">
+                  <gml:exterior>
+                    <gml:Shell gml:id="bldg004_buildingconstructiveelement006_window001_lod1solid_shell">
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window001_lod1solid_shell_polygon001">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689564 5333770 6 689566 5333770 6 689566 5333770 3 689564 5333770 3 689564 5333770 6</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window001_lod1solid_shell_polygon002">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689566 5333771 6 689566 5333771 3 689564 5333771 3 689564 5333771 6 689566 5333771 6</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window001_lod1solid_shell_polygon003">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689564 5333771 6 689564 5333771 3 689564 5333770 3 689564 5333770 6 689564 5333771 6</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window001_lod1solid_shell_polygon004">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689566 5333770 6 689566 5333770 3 689566 5333771 3 689566 5333771 6 689566 5333770 6</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window001_lod1solid_shell_polygon005">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689564 5333770 6 689564 5333771 6 689566 5333771 6 689566 5333770 6 689564 5333770 6</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window001_lod1solid_shell_polygon006">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689566 5333770 3 689564 5333770 3 689564 5333771 3 689566 5333771 3 689566 5333770 3</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                    </gml:Shell>
+                  </gml:exterior>
+                </gml:Solid>
+              </lod1Solid>
+              <con:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcWindow</con:function>
+            </con:Window>
+          </con:filling>
+          <con:filling>
+            <con:Window gml:id="bldg004_buildingconstructiveelement006_window002">
+              <gml:name>window 2</gml:name>
+              <boundary>
+                <con:WindowSurface gml:id="bldg004_buildingconstructiveelement006_window002_windowsurface001">
+                  <gml:name>exterior window 2 face</gml:name>
+                  <lod3MultiSurface xlink:href="#bldg004_window002_lod3multisurface001"></lod3MultiSurface>
+                </con:WindowSurface>
+              </boundary>
+              <lod1Solid>
+                <gml:Solid gml:id="bldg004_buildingconstructiveelement006_window002_lod1solid">
+                  <gml:exterior>
+                    <gml:Shell gml:id="bldg004_buildingconstructiveelement006_window002_lod1solid_shell">
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window002_lod1solid_shell_polygon001">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689568 5333770 6 689570 5333770 6 689570 5333770 3 689568 5333770 3 689568 5333770 6</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window002_lod1solid_shell_polygon002">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689570 5333771 6 689570 5333771 3 689568 5333771 3 689568 5333771 6 689570 5333771 6</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window002_lod1solid_shell_polygon003">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689568 5333771 6 689568 5333771 3 689568 5333770 3 689568 5333770 6 689568 5333771 6</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window002_lod1solid_shell_polygon004">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689570 5333770 6 689570 5333770 3 689570 5333771 3 689570 5333771 6 689570 5333770 6</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window002_lod1solid_shell_polygon005">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689568 5333770 6 689568 5333771 6 689570 5333771 6 689570 5333770 6 689568 5333770 6</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window002_lod1solid_shell_polygon006">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689570 5333770 3 689568 5333770 3 689568 5333771 3 689570 5333771 3 689570 5333770 3</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                    </gml:Shell>
+                  </gml:exterior>
+                </gml:Solid>
+              </lod1Solid>
+              <con:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcWindow</con:function>
+            </con:Window>
+          </con:filling>
+          <con:filling>
+            <con:Window gml:id="bldg004_buildingconstructiveelement006_window003">
+              <gml:name>window 3</gml:name>
+              <boundary>
+                <con:WindowSurface gml:id="bldg004_buildingconstructiveelement006_window003_windowsurface001">
+                  <gml:name>exterior window 3 face</gml:name>
+                  <lod3MultiSurface xlink:href="#bldg004_window003_lod3multisurface001"></lod3MultiSurface>
+                </con:WindowSurface>
+              </boundary>
+              <lod1Solid>
+                <gml:Solid gml:id="bldg004_buildingconstructiveelement006_window003_lod1solid">
+                  <gml:exterior>
+                    <gml:Shell gml:id="bldg004_buildingconstructiveelement006_window003_lod1solid_shell">
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window003_lod1solid_shell_polygon001">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689572 5333770 6 689574 5333770 6 689574 5333770 3 689572 5333770 3 689572 5333770 6</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window003_lod1solid_shell_polygon002">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689574 5333771 6 689574 5333771 3 689572 5333771 3 689572 5333771 6 689574 5333771 6</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window003_lod1solid_shell_polygon003">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689572 5333771 6 689572 5333771 3 689572 5333770 3 689572 5333770 6 689572 5333771 6</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window003_lod1solid_shell_polygon004">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689574 5333770 6 689574 5333770 3 689574 5333771 3 689574 5333771 6 689574 5333770 6</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window003_lod1solid_shell_polygon005">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689572 5333770 6 689572 5333771 6 689574 5333771 6 689574 5333770 6 689572 5333770 6</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window003_lod1solid_shell_polygon006">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689574 5333770 3 689572 5333770 3 689572 5333771 3 689574 5333771 3 689574 5333770 3</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                    </gml:Shell>
+                  </gml:exterior>
+                </gml:Solid>
+              </lod1Solid>
+              <con:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcWindow</con:function>
+            </con:Window>
+          </con:filling>
+          <con:filling>
+            <con:Window gml:id="bldg004_buildingconstructiveelement006_window004">
+              <gml:name>window 4</gml:name>
+              <boundary>
+                <con:WindowSurface gml:id="bldg004_buildingconstructiveelement006_window004_windowsurface001">
+                  <gml:name>exterior window 4 face</gml:name>
+                  <lod3MultiSurface xlink:href="#bldg004_window004_lod3multisurface001"></lod3MultiSurface>
+                </con:WindowSurface>
+              </boundary>
+              <lod1Solid>
+                <gml:Solid gml:id="bldg004_buildingconstructiveelement006_window004_lod1solid">
+                  <gml:exterior>
+                    <gml:Shell gml:id="bldg004_buildingconstructiveelement006_window004_lod1solid_shell">
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window004_lod1solid_shell_polygon001">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689576 5333770 6 689578 5333770 6 689578 5333770 3 689576 5333770 3 689576 5333770 6</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window004_lod1solid_shell_polygon002">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689578 5333771 6 689578 5333771 3 689576 5333771 3 689576 5333771 6 689578 5333771 6</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window004_lod1solid_shell_polygon003">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689578 5333770 6 689578 5333770 3 689578 5333771 3 689578 5333771 6 689578 5333770 6</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window004_lod1solid_shell_polygon004">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689576 5333771 6 689576 5333771 3 689576 5333770 3 689576 5333770 6 689576 5333771 6</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window004_lod1solid_shell_polygon005">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689576 5333770 6 689576 5333771 6 689578 5333771 6 689578 5333770 6 689576 5333770 6</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window004_lod1solid_shell_polygon006">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689578 5333770 3 689576 5333770 3 689576 5333771 3 689578 5333771 3 689578 5333770 3</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                    </gml:Shell>
+                  </gml:exterior>
+                </gml:Solid>
+              </lod1Solid>
+              <con:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcWindow</con:function>
+            </con:Window>
+          </con:filling>
+          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcWall</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
         <bldg:BuildingConstructiveElement gml:id="bldg004_buildingconstructiveelement007">
+          <gml:name>column_northeast</gml:name>
           <lod1Solid>
             <gml:Solid gml:id="bldg004_buildingconstructiveelement007_lod1solid">
               <gml:exterior>
@@ -847,11 +1380,12 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
-          <bldg:function>column-northeast</bldg:function>
+          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcColumn</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
         <bldg:BuildingConstructiveElement gml:id="bldg004_buildingconstructiveelement008">
+          <gml:name>column_northwest</gml:name>
           <lod1Solid>
             <gml:Solid gml:id="bldg004_buildingconstructiveelement008_lod1solid">
               <gml:exterior>
@@ -914,11 +1448,12 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
-          <bldg:function>column-northwest</bldg:function>
+          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcColumn</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
         <bldg:BuildingConstructiveElement gml:id="bldg004_buildingconstructiveelement009">
+          <gml:name>column_southeast</gml:name>
           <lod1Solid>
             <gml:Solid gml:id="bldg004_buildingconstructiveelement009_lod1solid">
               <gml:exterior>
@@ -981,11 +1516,12 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
-          <bldg:function>column-southeast</bldg:function>
+          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcColumn</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
         <bldg:BuildingConstructiveElement gml:id="bldg004_buildingconstructiveelement010">
+          <gml:name>column_southwest</gml:name>
           <lod1Solid>
             <gml:Solid gml:id="bldg004_buildingconstructiveelement010_lod1solid">
               <gml:exterior>
@@ -1048,73 +1584,134 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
-          <bldg:function>column-southwest</bldg:function>
+          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcColumn</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
-        <bldg:BuildingConstructiveElement gml:id="bldg004_buildingconstructiveelement011">
-          <con:filling>
-            <con:Door gml:id="bldg004_buildingconstructiveelement011_door001">
-              <boundary>
-                <con:DoorSurface gml:id="bldg004_buildingconstructiveelement011_door001_doorsurface001">
-                  <gml:name>exterior door face</gml:name>
-                  <lod3MultiSurface xlink:href="#bldg004_door001_lod3multisurface001"></lod3MultiSurface>
-                </con:DoorSurface>
-              </boundary>
-              <lod1Solid>
-                <gml:Solid gml:id="bldg004_buildingconstructiveelement011_door001_lod1solid">
+        <bldg:BuildingConstructiveElement gml:id="bldg004_buildingconstructiveelement016">
+          <gml:name>beam_east</gml:name>
+          <lod1Solid>
+            <gml:Solid gml:id="bldg004_buildingconstructiveelement016_beam001_lod1solid">
+              <gml:exterior>
+                <gml:Shell gml:id="bldg004_buildingconstructiveelement016_beam001_lod1solid_shell">
+                  <gml:surfaceMember>
+                    <gml:Polygon gml:id="bldg004_buildingconstructiveelement016_beam001_lod1solid_shell_polygon001">
+                      <gml:exterior>
+                        <gml:LinearRing>
+                          <gml:posList>689590 5333772 8 689590 5333772 7 689590 5333788 7 689590 5333788 8 689590 5333772 8</gml:posList>
+                        </gml:LinearRing>
+                      </gml:exterior>
+                    </gml:Polygon>
+                  </gml:surfaceMember>
+                  <gml:surfaceMember>
+                    <gml:Polygon gml:id="bldg004_buildingconstructiveelement016_beam001_lod1solid_shell_polygon002">
+                      <gml:exterior>
+                        <gml:LinearRing>
+                          <gml:posList>689590 5333788 8 689590 5333788 7 689588 5333788 7 689588 5333788 8 689590 5333788 8</gml:posList>
+                        </gml:LinearRing>
+                      </gml:exterior>
+                    </gml:Polygon>
+                  </gml:surfaceMember>
+                  <gml:surfaceMember>
+                    <gml:Polygon gml:id="bldg004_buildingconstructiveelement016_beam001_lod1solid_shell_polygon003">
+                      <gml:exterior>
+                        <gml:LinearRing>
+                          <gml:posList>689588 5333772 8 689590 5333772 8 689590 5333772 7 689588 5333772 7 689588 5333772 8</gml:posList>
+                        </gml:LinearRing>
+                      </gml:exterior>
+                    </gml:Polygon>
+                  </gml:surfaceMember>
+                  <gml:surfaceMember>
+                    <gml:Polygon gml:id="bldg004_buildingconstructiveelement016_beam001_lod1solid_shell_polygon004">
+                      <gml:exterior>
+                        <gml:LinearRing>
+                          <gml:posList>689588 5333788 8 689588 5333788 7 689588 5333772 7 689588 5333772 8 689588 5333788 8</gml:posList>
+                        </gml:LinearRing>
+                      </gml:exterior>
+                    </gml:Polygon>
+                  </gml:surfaceMember>
+                  <gml:surfaceMember>
+                    <gml:Polygon gml:id="bldg004_buildingconstructiveelement016_beam001_lod1solid_shell_polygon005">
+                      <gml:exterior>
+                        <gml:LinearRing>
+                          <gml:posList>689590 5333772 7 689588 5333772 7 689588 5333788 7 689590 5333788 7 689590 5333772 7</gml:posList>
+                        </gml:LinearRing>
+                      </gml:exterior>
+                    </gml:Polygon>
+                  </gml:surfaceMember>
+                  <gml:surfaceMember>
+                    <gml:Polygon gml:id="bldg004_buildingconstructiveelement016_beam001_lod1solid_shell_polygon006">
+                      <gml:exterior>
+                        <gml:LinearRing>
+                          <gml:posList>689588 5333772 8 689588 5333788 8 689590 5333788 8 689590 5333772 8 689588 5333772 8</gml:posList>
+                        </gml:LinearRing>
+                      </gml:exterior>
+                    </gml:Polygon>
+                  </gml:surfaceMember>
+                </gml:Shell>
+              </gml:exterior>
+            </gml:Solid>
+          </lod1Solid>
+          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcBeam</bldg:function>
+        </bldg:BuildingConstructiveElement>
+      </bldg:buildingConstructiveElement>
+      <bldg:buildingConstructiveElement>
+        <bldg:BuildingConstructiveElement gml:id="bldg004_buildingconstructiveelement017">
+          <gml:name>beam_north</gml:name>
+          <lod1Solid>
+                <gml:Solid gml:id="bldg004_buildingconstructiveelement017_beam002_lod1solid">
                   <gml:exterior>
-                    <gml:Shell gml:id="bldg004_buildingconstructiveelement011_door001_lod1solid_shell">
+                    <gml:Shell gml:id="bldg004_buildingconstructiveelement017_beam002_lod1solid_shell">
                       <gml:surfaceMember>
-                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement011_door001_lod1solid_shell_polygon001">
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement017_beam002_lod1solid_shell_polygon001">
                           <gml:exterior>
                             <gml:LinearRing>
-                              <gml:posList>689582 5333770 5 689585 5333770 5 689585 5333770 1 689582 5333770 1 689582 5333770 5</gml:posList>
+                              <gml:posList>689588 5333790 8 689588 5333790 7 689562 5333790 7 689562 5333790 8 689588 5333790 8</gml:posList>
                             </gml:LinearRing>
                           </gml:exterior>
                         </gml:Polygon>
                       </gml:surfaceMember>
                       <gml:surfaceMember>
-                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement011_door001_lod1solid_shell_polygon002">
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement017_beam002_lod1solid_shell_polygon002">
                           <gml:exterior>
                             <gml:LinearRing>
-                              <gml:posList>689585 5333771 5 689585 5333771 1 689582 5333771 1 689582 5333771 5 689585 5333771 5</gml:posList>
+                              <gml:posList>689588 5333788 8 689588 5333788 7 689588 5333790 7 689588 5333790 8 689588 5333788 8</gml:posList>
                             </gml:LinearRing>
                           </gml:exterior>
                         </gml:Polygon>
                       </gml:surfaceMember>
                       <gml:surfaceMember>
-                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement011_door001_lod1solid_shell_polygon003">
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement017_beam002_lod1solid_shell_polygon003">
                           <gml:exterior>
                             <gml:LinearRing>
-                              <gml:posList>689582 5333771 5 689582 5333771 1 689582 5333770 1 689582 5333770 5 689582 5333771 5</gml:posList>
+                              <gml:posList>689562 5333788 8 689562 5333788 7 689588 5333788 7 689588 5333788 8 689562 5333788 8</gml:posList>
                             </gml:LinearRing>
                           </gml:exterior>
                         </gml:Polygon>
                       </gml:surfaceMember>
                       <gml:surfaceMember>
-                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement011_door001_lod1solid_shell_polygon004">
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement017_beam002_lod1solid_shell_polygon004">
                           <gml:exterior>
                             <gml:LinearRing>
-                              <gml:posList>689585 5333770 5 689585 5333770 1 689585 5333771 1 689585 5333771 5 689585 5333770 5</gml:posList>
+                              <gml:posList>689562 5333790 8 689562 5333790 7 689562 5333788 7 689562 5333788 8 689562 5333790 8</gml:posList>
                             </gml:LinearRing>
                           </gml:exterior>
                         </gml:Polygon>
                       </gml:surfaceMember>
                       <gml:surfaceMember>
-                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement011_door001_lod1solid_shell_polygon005">
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement017_beam002_lod1solid_shell_polygon005">
                           <gml:exterior>
                             <gml:LinearRing>
-                              <gml:posList>689582 5333770 5 689582 5333771 5 689585 5333771 5 689585 5333770 5 689582 5333770 5</gml:posList>
+                              <gml:posList>689588 5333788 7 689562 5333788 7 689562 5333790 7 689588 5333790 7 689588 5333788 7</gml:posList>
                             </gml:LinearRing>
                           </gml:exterior>
                         </gml:Polygon>
                       </gml:surfaceMember>
                       <gml:surfaceMember>
-                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement011_door001_lod1solid_shell_polygon006">
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement017_beam002_lod1solid_shell_polygon006">
                           <gml:exterior>
                             <gml:LinearRing>
-                              <gml:posList>689585 5333770 1 689582 5333770 1 689582 5333771 1 689585 5333771 1 689585 5333770 1</gml:posList>
+                              <gml:posList>689562 5333788 8 689562 5333790 8 689588 5333790 8 689588 5333788 8 689562 5333788 8</gml:posList>
                             </gml:LinearRing>
                           </gml:exterior>
                         </gml:Polygon>
@@ -1123,11 +1720,443 @@
                   </gml:exterior>
                 </gml:Solid>
               </lod1Solid>
-            </con:Door>
-          </con:filling>
-          <bldg:function>Exterior Door</bldg:function>
+          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcBeam</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
+      <bldg:buildingConstructiveElement>
+        <bldg:BuildingConstructiveElement gml:id="bldg004_buildingconstructiveelement018">
+          <gml:name>beam_south</gml:name>
+          <lod1Solid>
+                <gml:Solid gml:id="bldg004_buildingconstructiveelement018_beam003_lod1solid">
+                  <gml:exterior>
+                    <gml:Shell gml:id="bldg004_buildingconstructiveelement018_beam003_lod1solid_shell">
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement018_beam003_lod1solid_shell_polygon001">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689562 5333770 8 689588 5333770 8 689588 5333770 7 689562 5333770 7 689562 5333770 8</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement018_beam003_lod1solid_shell_polygon002">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689588 5333772 8 689588 5333772 7 689562 5333772 7 689562 5333772 8 689588 5333772 8</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement018_beam003_lod1solid_shell_polygon003">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689588 5333770 8 689588 5333770 7 689588 5333772 7 689588 5333772 8 689588 5333770 8</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement018_beam003_lod1solid_shell_polygon004">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689562 5333770 8 689562 5333772 8 689588 5333772 8 689588 5333770 8 689562 5333770 8</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement018_beam003_lod1solid_shell_polygon005">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689588 5333770 7 689562 5333770 7 689562 5333772 7 689588 5333772 7 689588 5333770 7</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement018_beam003_lod1solid_shell_polygon006">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689562 5333772 8 689562 5333772 7 689562 5333770 7 689562 5333770 8 689562 5333772 8</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                    </gml:Shell>
+                  </gml:exterior>
+                </gml:Solid>
+              </lod1Solid>
+          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcBeam</bldg:function>
+        </bldg:BuildingConstructiveElement>
+      </bldg:buildingConstructiveElement>
+      <bldg:buildingConstructiveElement>
+        <bldg:BuildingConstructiveElement gml:id="bldg004_buildingconstructiveelement019">
+          <gml:name>beam_west</gml:name>
+          <lod1Solid>
+                <gml:Solid gml:id="bldg004_buildingconstructiveelement019_beam004_lod1solid">
+                  <gml:exterior>
+                    <gml:Shell gml:id="bldg004_buildingconstructiveelement019_beam004_lod1solid_shell">
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement019_beam004_lod1solid_shell_polygon001">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689560 5333788 8 689560 5333788 7 689560 5333772 7 689560 5333772 8 689560 5333788 8</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement019_beam004_lod1solid_shell_polygon002">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689560 5333772 8 689562 5333772 8 689562 5333772 7 689560 5333772 7 689560 5333772 8</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement019_beam004_lod1solid_shell_polygon003">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689562 5333788 8 689562 5333788 7 689560 5333788 7 689560 5333788 8 689562 5333788 8</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement019_beam004_lod1solid_shell_polygon004">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689562 5333772 8 689562 5333772 7 689562 5333788 7 689562 5333788 8 689562 5333772 8</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement019_beam004_lod1solid_shell_polygon005">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689560 5333772 8 689560 5333788 8 689562 5333788 8 689562 5333772 8 689560 5333772 8</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement019_beam004_lod1solid_shell_polygon006">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689562 5333772 7 689560 5333772 7 689560 5333788 7 689562 5333788 7 689562 5333772 7</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                    </gml:Shell>
+                  </gml:exterior>
+                </gml:Solid>
+              </lod1Solid>
+          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcBeam</bldg:function>
+        </bldg:BuildingConstructiveElement>
+      </bldg:buildingConstructiveElement>
+      <bldg:buildingConstructiveElement>
+        <bldg:BuildingConstructiveElement gml:id="bldg004_buildingconstructiveelement020">
+          <gml:name>beam_mid_east</gml:name>
+          <lod1Solid>
+                <gml:Solid gml:id="bldg004_buildingconstructiveelement020_beam005_lod1solid">
+                  <gml:exterior>
+                    <gml:Shell gml:id="bldg004_buildingconstructiveelement020_beam005_lod1solid_shell">
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement020_beam005_lod1solid_shell_polygon001">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689579 5333772 8 689579 5333788 8 689581 5333788 8 689581 5333772 8 689579 5333772 8</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement020_beam005_lod1solid_shell_polygon002">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689581 5333772 7 689579 5333772 7 689579 5333788 7 689581 5333788 7 689581 5333772 7</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement020_beam005_lod1solid_shell_polygon003">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689579 5333788 8 689579 5333788 7 689579 5333772 7 689579 5333772 8 689579 5333788 8</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement020_beam005_lod1solid_shell_polygon004">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689579 5333772 8 689581 5333772 8 689581 5333772 7 689579 5333772 7 689579 5333772 8</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement020_beam005_lod1solid_shell_polygon005">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689581 5333788 8 689581 5333788 7 689579 5333788 7 689579 5333788 8 689581 5333788 8</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement020_beam005_lod1solid_shell_polygon006">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689581 5333772 8 689581 5333772 7 689581 5333788 7 689581 5333788 8 689581 5333772 8</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                    </gml:Shell>
+                  </gml:exterior>
+                </gml:Solid>
+              </lod1Solid>
+          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
+              IfcBeam
+          </bldg:function>
+        </bldg:BuildingConstructiveElement>
+      </bldg:buildingConstructiveElement>
+      <bldg:buildingConstructiveElement>
+        <bldg:BuildingConstructiveElement gml:id="bldg004_buildingconstructiveelement021">
+          <gml:name>beam_mid_west</gml:name>
+          <lod1Solid>
+                <gml:Solid gml:id="bldg004_buildingconstructiveelement021_beam006_lod1solid">
+                  <gml:exterior>
+                    <gml:Shell gml:id="bldg004_buildingconstructiveelement021_beam006_lod1solid_shell">
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement021_beam006_lod1solid_shell_polygon001">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689569 5333772 8 689569 5333788 8 689571 5333788 8 689571 5333772 8 689569 5333772 8</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement021_beam006_lod1solid_shell_polygon002">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689571 5333772 7 689569 5333772 7 689569 5333788 7 689571 5333788 7 689571 5333772 7</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement021_beam006_lod1solid_shell_polygon003">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689569 5333788 8 689569 5333772 8 689569 5333772 7 689569 5333788 7 689569 5333788 8</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement021_beam006_lod1solid_shell_polygon004">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689569 5333772 8 689571 5333772 8 689571 5333772 7 689569 5333772 7 689569 5333772 8</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement021_beam006_lod1solid_shell_polygon005">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689571 5333788 8 689569 5333788 8 689569 5333788 7 689571 5333788 7 689571 5333788 8</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                      <gml:surfaceMember>
+                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement021_beam006_lod1solid_shell_polygon006">
+                          <gml:exterior>
+                            <gml:LinearRing>
+                              <gml:posList>689571 5333772 8 689571 5333788 8 689571 5333788 7 689571 5333772 7 689571 5333772 8</gml:posList>
+                            </gml:LinearRing>
+                          </gml:exterior>
+                        </gml:Polygon>
+                      </gml:surfaceMember>
+                    </gml:Shell>
+                  </gml:exterior>
+                </gml:Solid>
+              </lod1Solid>
+          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
+              IfcBeam
+          </bldg:function>
+        </bldg:BuildingConstructiveElement>
+      </bldg:buildingConstructiveElement>
+      <bldg:buildingConstructiveElement>
+        <bldg:BuildingConstructiveElement gml:id="bldg004_buildingconstructiveelement022">
+          <gml:name>interior wall</gml:name>
+          <lod1Solid>
+            <gml:Solid gml:id="bldg004_buildingconstructiveelement022_wall001_lod1solid">
+              <gml:exterior>
+                <gml:Shell gml:id="bldg004_buildingconstructiveelement022_wall001_lod1solid_shell">
+                  <gml:surfaceMember>
+                    <gml:Polygon gml:id="bldg004_buildingconstructiveelement022_wall001_lod1solid_shell_polygon001">
+                      <gml:exterior>
+                        <gml:LinearRing>
+                          <gml:posList>689580 5333771 7 689580 5333780 7 689581 5333780 7 689581 5333771 7 689580 5333771 7</gml:posList>
+                        </gml:LinearRing>
+                      </gml:exterior>
+                    </gml:Polygon>
+                  </gml:surfaceMember>
+                  <gml:surfaceMember>
+                    <gml:Polygon gml:id="bldg004_buildingconstructiveelement022_wall001_lod1solid_shell_polygon002">
+                      <gml:exterior>
+                        <gml:LinearRing>
+                          <gml:posList>689581 5333771 1 689580 5333771 1 689580 5333780 1 689581 5333780 1 689581 5333771 1</gml:posList>
+                        </gml:LinearRing>
+                      </gml:exterior>
+                    </gml:Polygon>
+                  </gml:surfaceMember>
+                  <gml:surfaceMember>
+                    <gml:Polygon gml:id="bldg004_buildingconstructiveelement022_wall001_lod1solid_shell_polygon003">
+                      <gml:exterior>
+                        <gml:LinearRing>
+                          <gml:posList>689580 5333780 7 689580 5333780 1 689580 5333771 1 689580 5333771 7 689580 5333780 7</gml:posList>
+                        </gml:LinearRing>
+                      </gml:exterior>
+                    </gml:Polygon>
+                  </gml:surfaceMember>
+                  <gml:surfaceMember>
+                    <gml:Polygon gml:id="bldg004_buildingconstructiveelement022_wall001_lod1solid_shell_polygon004">
+                      <gml:exterior>
+                        <gml:LinearRing>
+                          <gml:posList>689580 5333771 7 689581 5333771 7 689581 5333771 1 689580 5333771 1 689580 5333771 7</gml:posList>
+                        </gml:LinearRing>
+                      </gml:exterior>
+                    </gml:Polygon>
+                  </gml:surfaceMember>
+                  <gml:surfaceMember>
+                    <gml:Polygon gml:id="bldg004_buildingconstructiveelement022_wall001_lod1solid_shell_polygon005">
+                      <gml:exterior>
+                        <gml:LinearRing>
+                          <gml:posList>689581 5333780 7 689581 5333780 1 689580 5333780 1 689580 5333780 7 689581 5333780 7</gml:posList>
+                        </gml:LinearRing>
+                      </gml:exterior>
+                    </gml:Polygon>
+                  </gml:surfaceMember>
+                  <gml:surfaceMember>
+                    <gml:Polygon gml:id="bldg004_buildingconstructiveelement022_wall001_lod1solid_shell_polygon006">
+                      <gml:exterior>
+                        <gml:LinearRing>
+                          <gml:posList>689581 5333771 7 689581 5333771 1 689581 5333780 1 689581 5333780 7 689581 5333771 7</gml:posList>
+                        </gml:LinearRing>
+                      </gml:exterior>
+                    </gml:Polygon>
+                  </gml:surfaceMember>
+                </gml:Shell>
+              </gml:exterior>
+            </gml:Solid>
+          </lod1Solid>
+          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
+              IfcWall
+          </bldg:function>
+        </bldg:BuildingConstructiveElement>
+      </bldg:buildingConstructiveElement>
+      <bldg:buildingInstallation>
+        <bldg:BuildingInstallation gml:id="bldg004_buildingconstructiveelement023">
+          <gml:name>Indoor Stage (Step)</gml:name>
+          <lod1Solid>
+            <gml:Solid gml:id="bldg004_buildingconstructiveelement023_stage001_lod1solid">
+              <gml:exterior>
+                <gml:Shell gml:id="bldg004_buildingconstructiveelement023_stage001_lod1solid_shell">
+                  <gml:surfaceMember>
+                    <gml:Polygon gml:id="bldg004_buildingconstructiveelement023_stage001_lod1solid_shell_polygon001">
+                      <gml:exterior>
+                        <gml:LinearRing>
+                          <gml:posList>689570 5333789 1 689577 5333785 1 689577 5333777 1 689570 5333773 1 689563 5333777 1 689563 5333785 1 689570 5333789 1</gml:posList>
+                        </gml:LinearRing>
+                      </gml:exterior>
+                    </gml:Polygon>
+                  </gml:surfaceMember>
+                  <gml:surfaceMember>
+                    <gml:Polygon gml:id="bldg004_buildingconstructiveelement023_stage001_lod1solid_shell_polygon002">
+                      <gml:exterior>
+                        <gml:LinearRing>
+                          <gml:posList>689577 5333785 2 689577 5333777 2 689570 5333773 2 689563 5333777 2 689563 5333785 2 689570 5333789 2 689577 5333785 2</gml:posList>
+                        </gml:LinearRing>
+                      </gml:exterior>
+                    </gml:Polygon>
+                  </gml:surfaceMember>
+                  <gml:surfaceMember>
+                    <gml:Polygon gml:id="bldg004_buildingconstructiveelement023_stage001_lod1solid_shell_polygon003">
+                      <gml:exterior>
+                        <gml:LinearRing>
+                          <gml:posList>689563 5333785 1 689563 5333785 2 689570 5333789 2 689570 5333789 1 689563 5333785 1</gml:posList>
+                        </gml:LinearRing>
+                      </gml:exterior>
+                    </gml:Polygon>
+                  </gml:surfaceMember>
+                  <gml:surfaceMember>
+                    <gml:Polygon gml:id="bldg004_buildingconstructiveelement023_stage001_lod1solid_shell_polygon004">
+                      <gml:exterior>
+                        <gml:LinearRing>
+                          <gml:posList>689563 5333777 1 689563 5333777 2 689563 5333785 2 689563 5333785 1 689563 5333777 1</gml:posList>
+                        </gml:LinearRing>
+                      </gml:exterior>
+                    </gml:Polygon>
+                  </gml:surfaceMember>
+                  <gml:surfaceMember>
+                    <gml:Polygon gml:id="bldg004_buildingconstructiveelement023_stage001_lod1solid_shell_polygon005">
+                      <gml:exterior>
+                        <gml:LinearRing>
+                          <gml:posList>689570 5333789 1 689570 5333789 2 689577 5333785 2 689577 5333785 1 689570 5333789 1</gml:posList>
+                        </gml:LinearRing>
+                      </gml:exterior>
+                    </gml:Polygon>
+                  </gml:surfaceMember>
+                  <gml:surfaceMember>
+                    <gml:Polygon gml:id="bldg004_buildingconstructiveelement023_stage001_lod1solid_shell_polygon006">
+                      <gml:exterior>
+                        <gml:LinearRing>
+                          <gml:posList>689577 5333785 1 689577 5333785 2 689577 5333777 2 689577 5333777 1 689577 5333785 1</gml:posList>
+                        </gml:LinearRing>
+                      </gml:exterior>
+                    </gml:Polygon>
+                  </gml:surfaceMember>
+                  <gml:surfaceMember>
+                    <gml:Polygon gml:id="bldg004_buildingconstructiveelement023_stage001_lod1solid_shell_polygon007">
+                      <gml:exterior>
+                        <gml:LinearRing>
+                          <gml:posList>689577 5333777 1 689577 5333777 2 689570 5333773 2 689570 5333773 1 689577 5333777 1</gml:posList>
+                        </gml:LinearRing>
+                      </gml:exterior>
+                    </gml:Polygon>
+                  </gml:surfaceMember>
+                  <gml:surfaceMember>
+                    <gml:Polygon gml:id="bldg004_buildingconstructiveelement023_stage001_lod1solid_shell_polygon008">
+                      <gml:exterior>
+                        <gml:LinearRing>
+                          <gml:posList>689570 5333773 1 689570 5333773 2 689563 5333777 2 689563 5333777 1 689570 5333773 1</gml:posList>
+                        </gml:LinearRing>
+                      </gml:exterior>
+                    </gml:Polygon>
+                  </gml:surfaceMember>
+                </gml:Shell>
+              </gml:exterior>
+            </gml:Solid>
+          </lod1Solid>
+          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
+              IfcSlab
+          </bldg:function>
+        </bldg:BuildingInstallation>
+      </bldg:buildingInstallation>
     </bldg:Building>
   </cityObjectMember>
 </CityModel>
