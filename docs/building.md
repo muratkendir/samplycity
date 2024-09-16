@@ -44,7 +44,7 @@
 
 [View the Building 4 in 3D Mode](https://github.com/muratkendir/samplycity/tree/main/docs/buildings3d/bldg004.md){:target="_blank"}
 
-**No image yet**
+![bldg004](images/bldg004.png)
 
 ## bldg008
 
