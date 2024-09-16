@@ -28,6 +28,8 @@
           <con:value uom="urn:adv:uom:m">9</con:value>
         </con:Height>
       </con:height>
+      <!-- Roof disabled-->
+      <!--
       <bldg:buildingConstructiveElement>
         <bldg:BuildingConstructiveElement gml:id="bldg004_buildingconstructiveelement001">
           <gml:name>roof</gml:name>
@@ -49,7 +51,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement001_lod1solid_shell_polygon002">
                           <gml:exterior>
@@ -75,7 +77,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement001_lod1solid_shell_polygon004">
                           <gml:exterior>
@@ -122,6 +124,7 @@
           </bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
+      -->
       <bldg:buildingConstructiveElement>
         <bldg:BuildingConstructiveElement gml:id="bldg004_buildingconstructiveelement002">
           <gml:name>floor</gml:name>
@@ -130,7 +133,7 @@
               <gml:exterior>
                 <gml:Shell gml:id="bldg004_buildingconstructiveelement002_lod1solid_shell">
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement002_lod1solid_shell_polygon001">
                           <gml:exterior>
@@ -169,7 +172,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement002_lod1solid_shell_polygon004">
                           <gml:exterior>
@@ -224,7 +227,7 @@
               <gml:exterior>
                 <gml:Shell gml:id="bldg004_buildingconstructiveelement003_lod1solid_shell">
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement003_lod1solid_shell_polygon001">
                           <gml:exterior>
@@ -237,7 +240,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement003_lod1solid_shell_polygon002">
                           <gml:exterior>
@@ -250,7 +253,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement003_lod1solid_shell_polygon003">
                           <gml:exterior>
@@ -263,7 +266,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement003_lod1solid_shell_polygon004">
                           <gml:exterior>
@@ -289,7 +292,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement003_lod1solid_shell_polygon006">
                           <gml:exterior>
@@ -344,7 +347,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement004_lod1solid_shell_polygon003">
                           <gml:exterior>
@@ -438,7 +441,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement005_lod1solid_shell_polygon003">
                           <gml:exterior>
@@ -464,7 +467,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement005_lod1solid_shell_polygon005">
                           <gml:exterior>
@@ -506,7 +509,7 @@
               <gml:exterior>
                 <gml:Shell gml:id="bldg004_buildingconstructiveelement006_lod1solid_shell">
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_lod1solid_shell_polygon001">
                           <gml:exterior>
@@ -572,7 +575,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_lod1solid_shell_polygon003">
                           <gml:exterior>
@@ -693,7 +696,7 @@
                   <gml:exterior>
                     <gml:Shell gml:id="bldg004_buildingconstructiveelement006_door001_lod1solid_shell">
                       <gml:surfaceMember>
-                        <gml:OrientableSurface orientation="+">
+                        <gml:OrientableSurface orientation="-">
                           <gml:baseSurface>
                             <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_door001_lod1solid_shell_polygon001">
                               <gml:exterior>
@@ -745,7 +748,7 @@
                         </gml:OrientableSurface>
                       </gml:surfaceMember>
                       <gml:surfaceMember>
-                        <gml:OrientableSurface orientation="+">
+                        <gml:OrientableSurface orientation="-">
                           <gml:baseSurface>
                             <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_door001_lod1solid_shell_polygon005">
                               <gml:exterior>
@@ -793,7 +796,7 @@
                   <gml:exterior>
                     <gml:Shell gml:id="bldg004_buildingconstructiveelement006_window001_lod1solid_shell">
                       <gml:surfaceMember>
-                        <gml:OrientableSurface orientation="+">
+                        <gml:OrientableSurface orientation="-">
                           <gml:baseSurface>
                             <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window001_lod1solid_shell_polygon001">
                               <gml:exterior>
@@ -845,7 +848,7 @@
                         </gml:OrientableSurface>
                       </gml:surfaceMember>
                       <gml:surfaceMember>
-                        <gml:OrientableSurface orientation="+">
+                        <gml:OrientableSurface orientation="-">
                           <gml:baseSurface>
                             <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window001_lod1solid_shell_polygon005">
                               <gml:exterior>
@@ -891,7 +894,7 @@
                   <gml:exterior>
                     <gml:Shell gml:id="bldg004_buildingconstructiveelement006_window002_lod1solid_shell">
                       <gml:surfaceMember>
-                        <gml:OrientableSurface orientation="+">
+                        <gml:OrientableSurface orientation="-">
                           <gml:baseSurface>
                             <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window002_lod1solid_shell_polygon001">
                               <gml:exterior>
@@ -943,7 +946,7 @@
                         </gml:OrientableSurface>
                       </gml:surfaceMember>
                       <gml:surfaceMember>
-                        <gml:OrientableSurface orientation="+">
+                        <gml:OrientableSurface orientation="-">
                           <gml:baseSurface>
                             <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window002_lod1solid_shell_polygon005">
                               <gml:exterior>
@@ -989,7 +992,7 @@
                   <gml:exterior>
                     <gml:Shell gml:id="bldg004_buildingconstructiveelement006_window003_lod1solid_shell">
                       <gml:surfaceMember>
-                        <gml:OrientableSurface orientation="+">
+                        <gml:OrientableSurface orientation="-">
                           <gml:baseSurface>
                             <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window003_lod1solid_shell_polygon001">
                               <gml:exterior>
@@ -1041,7 +1044,7 @@
                         </gml:OrientableSurface>
                       </gml:surfaceMember>
                       <gml:surfaceMember>
-                        <gml:OrientableSurface orientation="+">
+                        <gml:OrientableSurface orientation="-">
                           <gml:baseSurface>
                             <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window003_lod1solid_shell_polygon005">
                               <gml:exterior>
@@ -1087,7 +1090,7 @@
                   <gml:exterior>
                     <gml:Shell gml:id="bldg004_buildingconstructiveelement006_window004_lod1solid_shell">
                       <gml:surfaceMember>
-                        <gml:OrientableSurface orientation="+">
+                        <gml:OrientableSurface orientation="-">
                           <gml:baseSurface>
                             <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window004_lod1solid_shell_polygon001">
                               <gml:exterior>
@@ -1139,7 +1142,7 @@
                         </gml:OrientableSurface>
                       </gml:surfaceMember>
                       <gml:surfaceMember>
-                        <gml:OrientableSurface orientation="+">
+                        <gml:OrientableSurface orientation="-">
                           <gml:baseSurface>
                             <gml:Polygon gml:id="bldg004_buildingconstructiveelement006_window004_lod1solid_shell_polygon005">
                               <gml:exterior>
@@ -1208,7 +1211,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement007_lod1solid_shell_polygon003">
                           <gml:exterior>
@@ -1326,7 +1329,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement008_lod1solid_shell_polygon005">
                           <gml:exterior>
@@ -1366,7 +1369,7 @@
               <gml:exterior>
                 <gml:Shell gml:id="bldg004_buildingconstructiveelement009_lod1solid_shell">
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement009_lod1solid_shell_polygon001">
                           <gml:exterior>
@@ -1418,7 +1421,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement009_lod1solid_shell_polygon005">
                           <gml:exterior>
@@ -1471,7 +1474,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement010_lod1solid_shell_polygon002">
                           <gml:exterior>
@@ -1510,7 +1513,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement010_lod1solid_shell_polygon005">
                           <gml:exterior>
@@ -1576,7 +1579,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement016_beam001_lod1solid_shell_polygon003">
                           <gml:exterior>
@@ -1602,7 +1605,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement016_beam001_lod1solid_shell_polygon005">
                           <gml:exterior>
@@ -1615,7 +1618,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement016_beam001_lod1solid_shell_polygon006">
                           <gml:exterior>
@@ -1707,7 +1710,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement017_beam002_lod1solid_shell_polygon006">
                           <gml:exterior>
@@ -1734,7 +1737,7 @@
               <gml:exterior>
                 <gml:Shell gml:id="bldg004_buildingconstructiveelement018_beam003_lod1solid_shell">
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement018_beam003_lod1solid_shell_polygon001">
                           <gml:exterior>
@@ -1773,7 +1776,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement018_beam003_lod1solid_shell_polygon004">
                           <gml:exterior>
@@ -1878,7 +1881,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement019_beam004_lod1solid_shell_polygon005">
                           <gml:exterior>
@@ -1918,7 +1921,7 @@
               <gml:exterior>
                 <gml:Shell gml:id="bldg004_buildingconstructiveelement020_beam005_lod1solid_shell">
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement020_beam005_lod1solid_shell_polygon001">
                           <gml:exterior>
@@ -1957,7 +1960,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement020_beam005_lod1solid_shell_polygon004">
                           <gml:exterior>
@@ -2012,7 +2015,7 @@
               <gml:exterior>
                 <gml:Shell gml:id="bldg004_buildingconstructiveelement021_beam006_lod1solid_shell">
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement021_beam006_lod1solid_shell_polygon001">
                           <gml:exterior>
@@ -2038,7 +2041,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement021_beam006_lod1solid_shell_polygon003">
                           <gml:exterior>
@@ -2051,7 +2054,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement021_beam006_lod1solid_shell_polygon004">
                           <gml:exterior>
@@ -2064,7 +2067,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement021_beam006_lod1solid_shell_polygon005">
                           <gml:exterior>
@@ -2077,7 +2080,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement021_beam006_lod1solid_shell_polygon006">
                           <gml:exterior>
@@ -2106,7 +2109,7 @@
               <gml:exterior>
                 <gml:Shell gml:id="bldg004_buildingconstructiveelement022_wall001_lod1solid_shell">
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement022_wall001_lod1solid_shell_polygon001">
                           <gml:exterior>
@@ -2145,7 +2148,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement022_wall001_lod1solid_shell_polygon004">
                           <gml:exterior>
@@ -2252,7 +2255,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement024_column001_lod1solid_shell_polygon005">
                           <gml:exterior>
@@ -2347,7 +2350,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement025_column002_lod1solid_shell_polygon005">
                           <gml:exterior>
@@ -2403,7 +2406,7 @@
                     </gml:OrientableSurface>
                   </gml:surfaceMember>
                   <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
+                    <gml:OrientableSurface orientation="-">
                       <gml:baseSurface>
                         <gml:Polygon gml:id="bldg004_buildingconstructiveelement023_stage001_lod1solid_shell_polygon002">
                           <gml:exterior>
