@@ -214,6 +214,7 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
+          <con:isStructuralElement>true</con:isStructuralElement>
           <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
             IfcSlab
           </bldg:function>
@@ -308,6 +309,7 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
+          <con:isStructuralElement>true</con:isStructuralElement>
           <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
             IfcWall
           </bldg:function>
@@ -402,6 +404,7 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
+          <con:isStructuralElement>true</con:isStructuralElement>
           <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
             IfcWall
           </bldg:function>
@@ -496,6 +499,7 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
+          <con:isStructuralElement>true</con:isStructuralElement>
           <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
             IfcWall
           </bldg:function>
@@ -682,13 +686,19 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
+          <con:isStructuralElement>true</con:isStructuralElement>
           <con:filling>
             <con:Door gml:id="bldg004_buildingconstructiveelement006_door001">
               <gml:name>door</gml:name>
               <boundary>
                 <con:DoorSurface gml:id="bldg004_buildingconstructiveelement006_door001_doorsurface001">
                   <gml:name>exterior door face</gml:name>
-                  <lod3MultiSurface xlink:href="#bldg004_door001_lod3multisurface001"></lod3MultiSurface>
+                  <lod1MultiSurface>
+                    <gml:MultiSurface gml:id="bldg004_buildingconstructiveelement006_door001_doorsurface001_lod1MultiSurface">
+                      <gml:surfaceMember xlink:href="#bldg004_buildingconstructiveelement006_door001_lod1solid_shell_polygon001">
+                      </gml:surfaceMember>
+                    </gml:MultiSurface>
+                  </lod1MultiSurface>
                 </con:DoorSurface>
               </boundary>
               <lod1Solid>
@@ -788,7 +798,12 @@
               <boundary>
                 <con:WindowSurface gml:id="bldg004_buildingconstructiveelement006_window001_windowsurface001">
                   <gml:name>exterior window 1 face</gml:name>
-                  <lod3MultiSurface xlink:href="#bldg004_window001_lod3multisurface001"></lod3MultiSurface>
+                  <lod1MultiSurface>
+                    <gml:MultiSurface gml:id="bldg004_buildingconstructiveelement006_window001_windowsurface001_lod1MultiSurface">
+                      <gml:surfaceMember xlink:href="#bldg004_buildingconstructiveelement006_window001_lod1solid_shell_polygon001">
+                      </gml:surfaceMember>
+                    </gml:MultiSurface>
+                  </lod1MultiSurface>
                 </con:WindowSurface>
               </boundary>
               <lod1Solid>
@@ -886,7 +901,12 @@
               <boundary>
                 <con:WindowSurface gml:id="bldg004_buildingconstructiveelement006_window002_windowsurface001">
                   <gml:name>exterior window 2 face</gml:name>
-                  <lod3MultiSurface xlink:href="#bldg004_window002_lod3multisurface001"></lod3MultiSurface>
+                  <lod1MultiSurface>
+                    <gml:MultiSurface gml:id="bldg004_buildingconstructiveelement006_window002_windowsurface001_lod1MultiSurface">
+                      <gml:surfaceMember xlink:href="#bldg004_buildingconstructiveelement006_window002_lod1solid_shell_polygon001">
+                      </gml:surfaceMember>
+                    </gml:MultiSurface>
+                  </lod1MultiSurface>
                 </con:WindowSurface>
               </boundary>
               <lod1Solid>
@@ -984,7 +1004,12 @@
               <boundary>
                 <con:WindowSurface gml:id="bldg004_buildingconstructiveelement006_window003_windowsurface001">
                   <gml:name>exterior window 3 face</gml:name>
-                  <lod3MultiSurface xlink:href="#bldg004_window003_lod3multisurface001"></lod3MultiSurface>
+                  <lod1MultiSurface>
+                    <gml:MultiSurface gml:id="bldg004_buildingconstructiveelement006_window003_windowsurface001_lod1MultiSurface">
+                      <gml:surfaceMember xlink:href="#bldg004_buildingconstructiveelement006_window003_lod1solid_shell_polygon001">
+                      </gml:surfaceMember>
+                    </gml:MultiSurface>
+                  </lod1MultiSurface>
                 </con:WindowSurface>
               </boundary>
               <lod1Solid>
@@ -1082,7 +1107,12 @@
               <boundary>
                 <con:WindowSurface gml:id="bldg004_buildingconstructiveelement006_window004_windowsurface001">
                   <gml:name>exterior window 4 face</gml:name>
-                  <lod3MultiSurface xlink:href="#bldg004_window004_lod3multisurface001"></lod3MultiSurface>
+                  <lod1MultiSurface>
+                    <gml:MultiSurface gml:id="bldg004_buildingconstructiveelement006_window004_windowsurface001_lod1MultiSurface">
+                      <gml:surfaceMember xlink:href="#bldg004_buildingconstructiveelement006_window004_lod1solid_shell_polygon001">
+                      </gml:surfaceMember>
+                    </gml:MultiSurface>
+                  </lod1MultiSurface>
                 </con:WindowSurface>
               </boundary>
               <lod1Solid>
@@ -1266,6 +1296,7 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
+          <con:isStructuralElement>true</con:isStructuralElement>
           <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcColumn</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
@@ -1358,6 +1389,7 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
+          <con:isStructuralElement>true</con:isStructuralElement>
           <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcColumn</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
@@ -1450,6 +1482,7 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
+          <con:isStructuralElement>true</con:isStructuralElement>
           <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcColumn</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
@@ -1542,6 +1575,7 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
+          <con:isStructuralElement>true</con:isStructuralElement>
           <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcColumn</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
@@ -1634,6 +1668,7 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
+          <con:isStructuralElement>true</con:isStructuralElement>
           <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcBeam</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
@@ -1726,6 +1761,7 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
+          <con:isStructuralElement>true</con:isStructuralElement>
           <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcBeam</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
@@ -1818,6 +1854,7 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
+          <con:isStructuralElement>true</con:isStructuralElement>
           <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcBeam</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
@@ -1910,6 +1947,7 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
+          <con:isStructuralElement>true</con:isStructuralElement>
           <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcBeam</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
@@ -2002,6 +2040,7 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
+          <con:isStructuralElement>true</con:isStructuralElement>
           <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
             IfcBeam
           </bldg:function>
@@ -2096,6 +2135,7 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
+          <con:isStructuralElement>true</con:isStructuralElement>
           <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
             IfcBeam
           </bldg:function>
@@ -2190,6 +2230,7 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
+          <con:isStructuralElement>false</con:isStructuralElement>
           <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
             IfcWall
           </bldg:function>
@@ -2284,7 +2325,7 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
-          <bldg:isStructuralElement>true</bldg:isStructuralElement>
+          <con:isStructuralElement>true</con:isStructuralElement>
           <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
             IfcColumn
           </bldg:function>
@@ -2379,7 +2420,7 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
-          <bldg:isStructuralElement>true</bldg:isStructuralElement>
+          <con:isStructuralElement>true</con:isStructuralElement>
           <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
             IfcColumn
           </bldg:function>

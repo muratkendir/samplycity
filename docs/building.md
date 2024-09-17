@@ -38,13 +38,14 @@
 
 **File Name:** bldg004.gml
 
-**Description:** Bldg004 is a building object which BuildingConstructiveElement features with Solid geometries. Solida Geometries are based on OrientableSurfaces and Polygons.
+**Description:** Bldg004 is a building object with "BuildingConstructiveElement" features with Solid geometries. Solid geometries consist of Orientable Surfaces and Polygons.
 
 **Tags:** lod1Solid, Building, BuildingConstructiveElement, Door
 
 [View the Building 4 in 3D Mode](https://github.com/muratkendir/samplycity/tree/main/docs/buildings3d/bldg004.md){:target="_blank"}
 
 ![bldg004](images/bldg004.png)
+![bldg004 base](images/bldg004_base.png)
 
 ## bldg008
 
