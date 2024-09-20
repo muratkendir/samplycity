@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
   <CityModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
     xsi:schemaLocation="https://schemas.opengis.net/citygml/3.0 ../schemas/3.0/core.xsd 
-      https://schemas.opengis.net/citygml/building/3.0 ../schemas/building/3.0/building.xsd 
-      https://schemas.opengis.net/citygml/construction/3.0 ../schemas/construction/3.0/construction.xsd " 
+      https://schemas.opengis.net/citygml/building/3.0 ../schemas/3.0/building.xsd 
+      https://schemas.opengis.net/citygml/construction/3.0 ../schemas/3.0/construction.xsd " 
     xmlns="http://www.opengis.net/citygml/3.0" 
     xmlns:con="http://www.opengis.net/citygml/construction/3.0" 
     xmlns:bldg="http://www.opengis.net/citygml/building/3.0" 

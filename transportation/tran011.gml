@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
   <CityModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-    xsi:schemaLocation="https://schemas.opengis.net/citygml/3.0 schemas/3.0/core.xsd 
-      https://schemas.opengis.net/citygml/transportation/3.0 schemas/3.0/transportation.xsd " 
+    xsi:schemaLocation="https://schemas.opengis.net/citygml/3.0 ../schemas/3.0/core.xsd 
+      https://schemas.opengis.net/citygml/transportation/3.0 ../schemas/3.0/transportation.xsd " 
     xmlns="http://www.opengis.net/citygml/3.0" 
     xmlns:tran="http://www.opengis.net/citygml/transportation/3.0" 
     xmlns:gml="http://www.opengis.net/gml/3.2" 

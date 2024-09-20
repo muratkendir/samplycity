@@ -107,7 +107,7 @@
               </gml:surfaceMember>
             </gml:MultiSurface>
           </lod2MultiSurface>
-          <lod3MultiSurface xlink:href="bldg_002_roofsurface_l2_multisurface"/>
+          <lod3MultiSurface xlink:href="#bldg_002_roofsurface_l2_multisurface"/>
         </con:RoofSurface>
       </boundary>
       <boundary>
