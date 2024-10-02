@@ -38,6 +38,8 @@
 
 **File Name:** bldg004.gml
 
+**Alternative as PointCloud:** [pointcloud/pnt001.gml](pointcloud.md)
+
 **Description:** Bldg004 is a building object with "BuildingConstructiveElement" features with Solid geometries. Solid geometries consist of Orientable Surfaces and Polygons.
 
 **Tags:** lod1Solid, Building, BuildingConstructiveElement, Door

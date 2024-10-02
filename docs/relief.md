@@ -4,6 +4,8 @@
 
 **File Name:** dem001.gml
 
+**Alternative as PointCloud:** [pointcloud/pnt002.gml](pointcloud.md)
+
 **Description:** DEM 001 is a relief object which has only LOD2 representation as TIN.
 
 **Tags:** TriangulatedSurface, TINRelief, ReliefFeature
