@@ -16,7 +16,7 @@
 
 **File Name:** pnt002.gml
 
-**Description:** pnt002 is a internally stored pointcloud dataset with the same location with bldg004, but has additional tree and ground surfaces.
+**Description:** pnt002 is a internally stored pointcloud dataset and shares the same location and geometry with dem001.
 
 **Tags:** MassPointRelief, PointCloud, MultiPoint
 
