@@ -28,103 +28,6 @@
           <con:value uom="urn:adv:uom:m">9</con:value>
         </con:Height>
       </con:height>
-      <!-- Roof disabled-->
-      <!--
-      <bldg:buildingConstructiveElement>
-        <bldg:BuildingConstructiveElement gml:id="bldg004_buildingconstructiveelement001">
-          <gml:name>roof</gml:name>
-          <lod1Solid>
-            <gml:Solid gml:id="bldg004_buildingconstructiveelement001_lod1solid">
-              <gml:exterior>
-                <gml:Shell gml:id="bldg004_buildingconstructiveelement001_lod1solid_shell">
-                  <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
-                      <gml:baseSurface>
-                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement001_lod1solid_shell_polygon001">
-                          <gml:exterior>
-                            <gml:LinearRing>
-                              <gml:posList>689590 5333770 8 689560 5333770 8 689560 5333790 8 689590 5333790 8 689590 5333770 8</gml:posList>
-                            </gml:LinearRing>
-                          </gml:exterior>
-                        </gml:Polygon>
-                      </gml:baseSurface>
-                    </gml:OrientableSurface>
-                  </gml:surfaceMember>
-                  <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="-">
-                      <gml:baseSurface>
-                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement001_lod1solid_shell_polygon002">
-                          <gml:exterior>
-                            <gml:LinearRing>
-                              <gml:posList>689560 5333770 9 689560 5333790 9 689590 5333790 9 689590 5333770 9 689560 5333770 9</gml:posList>
-                            </gml:LinearRing>
-                          </gml:exterior>
-                        </gml:Polygon>
-                      </gml:baseSurface>
-                    </gml:OrientableSurface>
-                  </gml:surfaceMember>
-                  <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
-                      <gml:baseSurface>
-                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement001_lod1solid_shell_polygon003">
-                          <gml:exterior>
-                            <gml:LinearRing>
-                              <gml:posList>689560 5333790 9 689560 5333790 8 689560 5333770 8 689560 5333770 9 689560 5333790 9</gml:posList>
-                            </gml:LinearRing>
-                          </gml:exterior>
-                        </gml:Polygon>
-                      </gml:baseSurface>
-                    </gml:OrientableSurface>
-                  </gml:surfaceMember>
-                  <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="-">
-                      <gml:baseSurface>
-                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement001_lod1solid_shell_polygon004">
-                          <gml:exterior>
-                            <gml:LinearRing>
-                              <gml:posList>689560 5333770 9 689590 5333770 9 689590 5333770 8 689560 5333770 8 689560 5333770 9</gml:posList>
-                            </gml:LinearRing>
-                          </gml:exterior>
-                        </gml:Polygon>
-                      </gml:baseSurface>
-                    </gml:OrientableSurface>
-                  </gml:surfaceMember>
-                  <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
-                      <gml:baseSurface>
-                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement001_lod1solid_shell_polygon005">
-                          <gml:exterior>
-                            <gml:LinearRing>
-                              <gml:posList>689590 5333790 9 689590 5333790 8 689560 5333790 8 689560 5333790 9 689590 5333790 9</gml:posList>
-                            </gml:LinearRing>
-                          </gml:exterior>
-                        </gml:Polygon>
-                      </gml:baseSurface>
-                    </gml:OrientableSurface>
-                  </gml:surfaceMember>
-                  <gml:surfaceMember>
-                    <gml:OrientableSurface orientation="+">
-                      <gml:baseSurface>
-                        <gml:Polygon gml:id="bldg004_buildingconstructiveelement001_lod1solid_shell_polygon006">
-                          <gml:exterior>
-                            <gml:LinearRing>
-                              <gml:posList>689590 5333770 9 689590 5333770 8 689590 5333790 8 689590 5333790 9 689590 5333770 9</gml:posList>
-                            </gml:LinearRing>
-                          </gml:exterior>
-                        </gml:Polygon>
-                      </gml:baseSurface>
-                    </gml:OrientableSurface>
-                  </gml:surfaceMember>
-                </gml:Shell>
-              </gml:exterior>
-            </gml:Solid>
-          </lod1Solid>
-          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
-            IfcRoof
-          </bldg:function>
-        </bldg:BuildingConstructiveElement>
-      </bldg:buildingConstructiveElement>
-      -->
       <bldg:buildingConstructiveElement>
         <bldg:BuildingConstructiveElement gml:id="bldg004_buildingconstructiveelement002">
           <gml:name>floor</gml:name>
@@ -215,9 +118,7 @@
             </gml:Solid>
           </lod1Solid>
           <con:isStructuralElement>true</con:isStructuralElement>
-          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
-            IfcSlab
-          </bldg:function>
+          <bldg:function>IfcSlab</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
@@ -310,9 +211,7 @@
             </gml:Solid>
           </lod1Solid>
           <con:isStructuralElement>true</con:isStructuralElement>
-          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
-            IfcWall
-          </bldg:function>
+          <bldg:function>IfcWall</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
@@ -405,9 +304,7 @@
             </gml:Solid>
           </lod1Solid>
           <con:isStructuralElement>true</con:isStructuralElement>
-          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
-            IfcWall
-          </bldg:function>
+          <bldg:function>IfcWall</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
@@ -500,9 +397,7 @@
             </gml:Solid>
           </lod1Solid>
           <con:isStructuralElement>true</con:isStructuralElement>
-          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
-            IfcWall
-          </bldg:function>
+          <bldg:function>IfcWall</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
@@ -787,9 +682,7 @@
                   </gml:exterior>
                 </gml:Solid>
               </lod1Solid>
-              <con:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
-                IfcDoor
-              </con:function>
+              <con:function >IfcDoor</con:function>
             </con:Door>
           </con:filling>
           <con:filling>
@@ -892,7 +785,7 @@
                   </gml:exterior>
                 </gml:Solid>
               </lod1Solid>
-              <con:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcWindow</con:function>
+              <con:function >IfcWindow</con:function>
             </con:Window>
           </con:filling>
           <con:filling>
@@ -995,7 +888,7 @@
                   </gml:exterior>
                 </gml:Solid>
               </lod1Solid>
-              <con:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcWindow</con:function>
+              <con:function >IfcWindow</con:function>
             </con:Window>
           </con:filling>
           <con:filling>
@@ -1098,7 +991,7 @@
                   </gml:exterior>
                 </gml:Solid>
               </lod1Solid>
-              <con:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcWindow</con:function>
+              <con:function >IfcWindow</con:function>
             </con:Window>
           </con:filling>
           <con:filling>
@@ -1201,10 +1094,10 @@
                   </gml:exterior>
                 </gml:Solid>
               </lod1Solid>
-              <con:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcWindow</con:function>
+              <con:function >IfcWindow</con:function>
             </con:Window>
           </con:filling>
-          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcWall</bldg:function>
+          <bldg:function>IfcWall</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
@@ -1297,7 +1190,7 @@
             </gml:Solid>
           </lod1Solid>
           <con:isStructuralElement>true</con:isStructuralElement>
-          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcColumn</bldg:function>
+          <bldg:function>IfcColumn</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
@@ -1390,7 +1283,7 @@
             </gml:Solid>
           </lod1Solid>
           <con:isStructuralElement>true</con:isStructuralElement>
-          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcColumn</bldg:function>
+          <bldg:function>IfcColumn</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
@@ -1483,7 +1376,7 @@
             </gml:Solid>
           </lod1Solid>
           <con:isStructuralElement>true</con:isStructuralElement>
-          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcColumn</bldg:function>
+          <bldg:function>IfcColumn</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
@@ -1576,7 +1469,7 @@
             </gml:Solid>
           </lod1Solid>
           <con:isStructuralElement>true</con:isStructuralElement>
-          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcColumn</bldg:function>
+          <bldg:function>IfcColumn</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
@@ -1669,7 +1562,7 @@
             </gml:Solid>
           </lod1Solid>
           <con:isStructuralElement>true</con:isStructuralElement>
-          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcBeam</bldg:function>
+          <bldg:function>IfcBeam</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
@@ -1762,7 +1655,7 @@
             </gml:Solid>
           </lod1Solid>
           <con:isStructuralElement>true</con:isStructuralElement>
-          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcBeam</bldg:function>
+          <bldg:function>IfcBeam</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
@@ -1855,7 +1748,7 @@
             </gml:Solid>
           </lod1Solid>
           <con:isStructuralElement>true</con:isStructuralElement>
-          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcBeam</bldg:function>
+          <bldg:function>IfcBeam</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
@@ -1948,7 +1841,7 @@
             </gml:Solid>
           </lod1Solid>
           <con:isStructuralElement>true</con:isStructuralElement>
-          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">IfcBeam</bldg:function>
+          <bldg:function>IfcBeam</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
@@ -2041,9 +1934,7 @@
             </gml:Solid>
           </lod1Solid>
           <con:isStructuralElement>true</con:isStructuralElement>
-          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
-            IfcBeam
-          </bldg:function>
+          <bldg:function>IfcBeam</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
@@ -2136,9 +2027,7 @@
             </gml:Solid>
           </lod1Solid>
           <con:isStructuralElement>true</con:isStructuralElement>
-          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
-            IfcBeam
-          </bldg:function>
+          <bldg:function>IfcBeam</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
@@ -2231,9 +2120,7 @@
             </gml:Solid>
           </lod1Solid>
           <con:isStructuralElement>false</con:isStructuralElement>
-          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
-            IfcWall
-          </bldg:function>
+          <bldg:function>IfcWall</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
@@ -2326,9 +2213,7 @@
             </gml:Solid>
           </lod1Solid>
           <con:isStructuralElement>true</con:isStructuralElement>
-          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
-            IfcColumn
-          </bldg:function>
+          <bldg:function>IfcColumn</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingConstructiveElement>
@@ -2421,9 +2306,7 @@
             </gml:Solid>
           </lod1Solid>
           <con:isStructuralElement>true</con:isStructuralElement>
-          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
-            IfcColumn
-          </bldg:function>
+          <bldg:function>IfcColumn</bldg:function>
         </bldg:BuildingConstructiveElement>
       </bldg:buildingConstructiveElement>
       <bldg:buildingInstallation>
@@ -2541,9 +2424,7 @@
               </gml:exterior>
             </gml:Solid>
           </lod1Solid>
-          <bldg:function codeSpace="https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuiltElement">
-            IfcSlab
-          </bldg:function>
+          <bldg:function>IfcSlab</bldg:function>
         </bldg:BuildingInstallation>
       </bldg:buildingInstallation>
     </bldg:Building>
