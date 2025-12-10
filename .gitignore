@@ -2,3 +2,5 @@ site/
 site/**/*
 .git/
 *~
+.*/
+mkdocs.yml
