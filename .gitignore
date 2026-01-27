@@ -1,6 +1,9 @@
-site/
-site/**/*
-.git/
-*~
+# Folders
+site
+.git
 .*/
+# Files
+*~
+samplycity.sublime-project
+samplycity.sublime-workspace
 mkdocs.yml
