@@ -172,6 +172,15 @@
                       </gml:exterior>
                     </gml:Polygon>
                   </gml:surfaceMember>
+                  <gml:surfaceMember>
+                    <gml:Polygon gml:id="tran_011_intersection_lod_1_solid_polygon_016">
+                      <gml:exterior>
+                        <gml:LinearRing>
+                          <gml:posList>689881 5333778 0 689881 5333778 1 689887 5333777 2 689887 5333777 1 689887 5333777 0 689881 5333778 0</gml:posList>
+                        </gml:LinearRing>
+                      </gml:exterior>
+                    </gml:Polygon>
+                  </gml:surfaceMember>
                 </gml:Shell>
               </gml:exterior>
             </gml:Solid>
