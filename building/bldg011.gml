@@ -261,25 +261,6 @@
           </lod3MultiSurface>  
         </con:WindowSurface>
       </boundary>
-      <boundary>
-        <con:FloorSurface gml:id="bldg_011_floorsurface_01">
-          <gml:name>Floor Room 0</gml:name>
-          <relativeToTerrain>entirelyAboveTerrain</relativeToTerrain>
-          <lod3MultiSurface>
-            <gml:MultiSurface gml:id="bldg_011_floorsurface_01_l3_multisurface_01">
-              <gml:surfaceMember>
-                <gml:Polygon gml:id="bldg_011_floorsurface_01_l3_multisurface_01_polygon_001">
-                  <gml:exterior>
-                    <gml:LinearRing>
-                      <gml:posList>689745 5333839 0 689745 5333831 0 689753 5333831 0 689753 5333839 0 689745 5333839 0</gml:posList>
-                    </gml:LinearRing>
-                  </gml:exterior>
-                </gml:Polygon>
-              </gml:surfaceMember>
-            </gml:MultiSurface>
-          </lod3MultiSurface>  
-        </con:FloorSurface>
-      </boundary>
       <con:height>
         <con:Height>
           <con:highReference>highestRoofEdge</con:highReference>

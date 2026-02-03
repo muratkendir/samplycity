@@ -45,7 +45,7 @@ This visual is designed to represent the hierarchical data structure of GML geom
  **bldg008** | 1 | 1 | 1 | 1 
  **bldg009** | 1 | 1 | 1 | 1 
  **bldg010** | 1 | 1 | 1 | 0 
- **bldg011** | 1 | 1 | 0 | 0 
+ **bldg011** | 1 | 1 | 0 | 1 
  **tran001** | 1 | 1 | 1 | 1 
  **tran002** | 1 | 1 | 1 | 1 
  **tran006** | 1 | 1 | 1 | 1 
