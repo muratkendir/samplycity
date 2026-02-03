@@ -6,4 +6,5 @@ site
 *~
 samplycity.sublime-project
 samplycity.sublime-workspace
-mkdocs.yml
+_raw_files/qgis/*-shm
+_raw_files/qgis/*-wal
