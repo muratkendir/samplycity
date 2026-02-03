@@ -77,7 +77,7 @@
 
 **File Name:** bldg010.gml
 
-**Description:** Building010 is a building object which has Boundaries and linked LOD representations and additionally rooms, windows and doors.
+**Description:** Building010 is a building object which has Boundaries and linked (XLink) LOD representations and additionally rooms, windows and doors.
 
 **Tags:** lod3MultiSurface, lod3Solid, Building, GroundSurface, RoofSurface, WallSurface, OuterCeilingSurface, DoorSurface, WindowSurface, FloorSurface, InteriorWallSurface, CeilingSurface, BuildingRoom
 
@@ -89,6 +89,6 @@
 
 **File Name:** bldg011.gml
 
-**Description:** Building011 is a building object which has (only) boundaries with color coded appearances.
+**Description:** Building011 is a building object which has (only) boundaries with color coded appearances (assigned with app:target).
 
 **Tags:**  Building, GroundSurface, RoofSurface, WallSurface, DoorSurface, WindowSurface, InteriorWallSurface, CeilingSurface
