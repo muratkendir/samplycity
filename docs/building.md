@@ -84,3 +84,11 @@
 [View the Building 10 in 3D Mode](https://github.com/muratkendir/samplycity/tree/main/docs/buildings3d/bldg010.md){:target="_blank"}
 ![bldg010](images/bldg010.png)
 ![bldg010 base](images/bldg010_base.png)
+
+## bldg011
+
+**File Name:** bldg011.gml
+
+**Description:** Building011 is a building object which has (only) boundaries with color coded appearances.
+
+**Tags:**  Building, GroundSurface, RoofSurface, WallSurface, DoorSurface, WindowSurface, InteriorWallSurface, CeilingSurface

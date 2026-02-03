@@ -6,7 +6,7 @@
 - Stage 2 (Progress: % 60): SamplyCity aims to consist at least one sample per module.
 - Stage 3 (Progress: 30%): SamplyCity aims to reflect all possible data structure scenarios within itself. 
 
-## Feedback 
+## Feedback
 
 Please feel free to send feedback if you notice an error or bug in the files.
 
@@ -45,6 +45,7 @@ This visual is designed to represent the hierarchical data structure of GML geom
  **bldg008** | 1 | 1 | 1 | 1 
  **bldg009** | 1 | 1 | 1 | 1 
  **bldg010** | 1 | 1 | 1 | 0 
+ **bldg011** | 1 | 1 | 0 | 0 
  **tran001** | 1 | 1 | 1 | 1 
  **tran002** | 1 | 1 | 1 | 1 
  **tran006** | 1 | 1 | 1 | 1 
