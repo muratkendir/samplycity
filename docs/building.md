@@ -92,3 +92,6 @@
 **Description:** Building011 is a building object which has (only) boundaries with color coded appearances (assigned with app:target).
 
 **Tags:**  Building, GroundSurface, RoofSurface, WallSurface, DoorSurface, WindowSurface, InteriorWallSurface, CeilingSurface
+
+![Building011 Preview](images/bldg011_preview.png)
+![Building011 Preview](images/bldg011_base.png)
