@@ -15,6 +15,7 @@
   </gml:boundedBy>
   <cityObjectMember>
     <tran:Road gml:id="tran_011">
+      <tran:trafficDirection>both</tran:trafficDirection>
       <tran:intersection>
         <tran:Intersection gml:id="tran_011_intersection">
           <gml:description>Tran011 is a road-railway intersection which has LOD0 and LOD3 representations as MultiSurface and Solid</gml:description>
@@ -187,7 +188,6 @@
           </lod3Solid>
         </tran:Intersection>
       </tran:intersection>
-      <tran:trafficDirection>both</tran:trafficDirection>
     </tran:Road>
   </cityObjectMember>
 </CityModel>
