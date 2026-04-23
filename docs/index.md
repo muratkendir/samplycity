@@ -12,7 +12,11 @@ Please feel free to send feedback if you notice an error or bug in the files.
 
 **[Click here](https://forms.gle/zAFmvnkLprLUaN3AA){:target="_blank"} to send me your feedback.**
 
+Key Plan (2D projections) on QGIS: 
 ![samplycity_overview](images/samplycity.jpg)
+
+A Sample View on ArcGIS Pro (via additional tools)
+![A sample view on ArcGIS Pro](images/features_on_arcgis_pro_cropped.png)
 
 ## SamplyCity Manifest
 
@@ -42,6 +46,7 @@ This visual is designed to represent the hierarchical data structure of GML geom
  **bldg002_only_lod2** | 1 | 1 | 1 | 0 
  **bldg002_only_lod3** | 1 | 1 | 1 | 0 
  **bldg003** | 1 | 1 | 1 | 1 
+ **bldg004** | 1 | 0 | 1 | 0 
  **bldg008** | 1 | 1 | 1 | 1 
  **bldg009** | 1 | 1 | 1 | 1 
  **bldg010** | 1 | 1 | 1 | 0 
