@@ -18,7 +18,7 @@
   <cityObjectMember>
     <bldg:Building gml:id="bldg_010">
       <gml:description>Building010 is a building object which has Boundaries and linked LOD representations and additionally rooms, windows and doors.</gml:description>
-      <gml:name>Building 02</gml:name>
+      <gml:name>Building 10</gml:name>
       <creationDate>2024-03-15T00:00:00</creationDate>
       <boundary>
         <con:GroundSurface gml:id="bldg_010_groundsurface">
